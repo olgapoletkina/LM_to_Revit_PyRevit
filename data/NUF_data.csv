@@ -1,0 +1,1030 @@
+NC,Bezeichnung,NUF,bezeichnung_no_special_ch,concat_text
+111,wohnräume,NUF_1,wohnraume,wohnräume | wohnraume
+11111,wohnraum/ schlafraum,NUF_1,wohnraum/ schlafraum,wohnraum/ schlafraum | wohnraum/ schlafraum
+11112,wohnraum/ schlafraum mit rlt 1,NUF_1,wohnraum/ schlafraum mit rlt 1,wohnraum/ schlafraum mit rlt 1 | wohnraum/ schlafraum mit rlt 1
+11121,küche in wohnung,NUF_1,kuche in wohnung,küche in wohnung | kuche in wohnung
+11122,küche in wohnung mit rlt 1,NUF_1,kuche in wohnung mit rlt 1,küche in wohnung mit rlt 1 | kuche in wohnung mit rlt 1
+11131,diele,NUF_1,diele,diele | diele
+11132,diele mit rlt 1,NUF_1,diele mit rlt 1,diele mit rlt 1 | diele mit rlt 1
+112,"internate, wohnheime, beherbergungsstätten",NUF_1,"internate, wohnheime, beherbergungsstatten","internate, wohnheime, beherbergungsstätten | internate, wohnheime, beherbergungsstatten"
+11211,ein-/zweibettzimmer,NUF_1,ein-/zweibettzimmer,ein-/zweibettzimmer | ein-/zweibettzimmer
+11212,ein-/zweibettzimmer mit waschtisch,NUF_1,ein-/zweibettzimmer mit waschtisch,ein-/zweibettzimmer mit waschtisch | ein-/zweibettzimmer mit waschtisch
+11213,ein-/zweibettzimmer mit rlt 1,NUF_1,ein-/zweibettzimmer mit rlt 1,ein-/zweibettzimmer mit rlt 1 | ein-/zweibettzimmer mit rlt 1
+11214,ein-/zweibettzimmer mit waschtisch und rlt 1,NUF_1,ein-/zweibettzimmer mit waschtisch und rlt 1,ein-/zweibettzimmer mit waschtisch und rlt 1 | ein-/zweibettzimmer mit waschtisch und rlt 1
+11221,mehrbettwohn-/ schlafraum,NUF_1,mehrbettwohn-/ schlafraum,mehrbettwohn-/ schlafraum | mehrbettwohn-/ schlafraum
+11222,mehrbettwohn-/ schlafraum mit rlt 1,NUF_1,mehrbettwohn-/ schlafraum mit rlt 1,mehrbettwohn-/ schlafraum mit rlt 1 | mehrbettwohn-/ schlafraum mit rlt 1
+121,aufenthaltsräume,NUF_1,aufenthaltsraume,aufenthaltsräume | aufenthaltsraume
+12111,aufenthaltsraum,NUF_1,aufenthaltsraum,aufenthaltsraum | aufenthaltsraum
+12112,aufenthaltsraum mit rlt 1,NUF_1,aufenthaltsraum mit rlt 1,aufenthaltsraum mit rlt 1 | aufenthaltsraum mit rlt 1
+12113,aufenthaltsraum raumklasse ii (op-bereich),NUF_1,aufenthaltsraum raumklasse ii (op-bereich),aufenthaltsraum raumklasse ii (op-bereich) | aufenthaltsraum raumklasse ii (op-bereich)
+12121,aufenthaltsraum mit teeküche,NUF_1,aufenthaltsraum mit teekuche,aufenthaltsraum mit teeküche | aufenthaltsraum mit teekuche
+12122,aufenthaltsraum mit teeküche und  rlt 1,NUF_1,aufenthaltsraum mit teekuche und  rlt 1,aufenthaltsraum mit teeküche und  rlt 1 | aufenthaltsraum mit teekuche und  rlt 1
+12123,aufenthaltsraum mit teeküche und  rlt 3,NUF_1,aufenthaltsraum mit teekuche und  rlt 3,aufenthaltsraum mit teeküche und  rlt 3 | aufenthaltsraum mit teekuche und  rlt 3
+122,bereitschaftsräume,NUF_1,bereitschaftsraume,bereitschaftsräume | bereitschaftsraume
+12211,bereitschaftsraum,NUF_1,bereitschaftsraum,bereitschaftsraum | bereitschaftsraum
+12212,bereitschaftsraum mit waschtisch,NUF_1,bereitschaftsraum mit waschtisch,bereitschaftsraum mit waschtisch | bereitschaftsraum mit waschtisch
+12213,bereitschaftsraum mit rlt 1,NUF_1,bereitschaftsraum mit rlt 1,bereitschaftsraum mit rlt 1 | bereitschaftsraum mit rlt 1
+12214,bereitschaftsraum mit waschtisch und rlt 1,NUF_1,bereitschaftsraum mit waschtisch und rlt 1,bereitschaftsraum mit waschtisch und rlt 1 | bereitschaftsraum mit waschtisch und rlt 1
+12221,bereitschaftsraum mit sicherheitsanforderungen und rlt 1,NUF_1,bereitschaftsraum mit sicherheitsanforderungen und rlt 1,bereitschaftsraum mit sicherheitsanforderungen und rlt 1 | bereitschaftsraum mit sicherheitsanforderungen und rlt 1
+123,kindertagesstätte,NUF_1,kindertagesstatte,kindertagesstätte | kindertagesstatte
+12311,kinderspielraum,NUF_1,kinderspielraum,kinderspielraum | kinderspielraum
+12312,kinderspielraum mit rlt 1,NUF_1,kinderspielraum mit rlt 1,kinderspielraum mit rlt 1 | kinderspielraum mit rlt 1
+12321,kleinkindschlafen,NUF_1,kleinkindschlafen,kleinkindschlafen | kleinkindschlafen
+12322,kleinkindschlafen mit rlt 1,NUF_1,kleinkindschlafen mit rlt 1,kleinkindschlafen mit rlt 1 | kleinkindschlafen mit rlt 1
+131,pausenräume,NUF_1,pausenraume,pausenräume | pausenraume
+13111,pausenfläche,NUF_1,pausenflache,pausenfläche | pausenflache
+13112,pausenfläche mit rlt 1,NUF_1,pausenflache mit rlt 1,pausenfläche mit rlt 1 | pausenflache mit rlt 1
+13121,teeküche (ohne aufenthalt),NUF_1,teekuche (ohne aufenthalt),teeküche (ohne aufenthalt) | teekuche (ohne aufenthalt)
+13122,teeküche (ohne aufenthalt) mit rlt 1,NUF_1,teekuche (ohne aufenthalt) mit rlt 1,teeküche (ohne aufenthalt) mit rlt 1 | teekuche (ohne aufenthalt) mit rlt 1
+132,pausenhallen/ wandelhallen,NUF_1,pausenhallen/ wandelhallen,pausenhallen/ wandelhallen | pausenhallen/ wandelhallen
+13211,pausenhalle,NUF_1,pausenhalle,pausenhalle | pausenhalle
+13212,pausenhalle mit rlt 1,NUF_1,pausenhalle mit rlt 1,pausenhalle mit rlt 1 | pausenhalle mit rlt 1
+13221,wandelhalle,NUF_1,wandelhalle,wandelhalle | wandelhalle
+13222,wandelhalle mit rlt 1,NUF_1,wandelhalle mit rlt 1,wandelhalle mit rlt 1 | wandelhalle mit rlt 1
+133,ruheräume,NUF_1,ruheraume,ruheräume | ruheraume
+13311,ruheraum,NUF_1,ruheraum,ruheraum | ruheraum
+13312,ruheraum mit waschtisch,NUF_1,ruheraum mit waschtisch,ruheraum mit waschtisch | ruheraum mit waschtisch
+13313,ruheraum mit rlt 1,NUF_1,ruheraum mit rlt 1,ruheraum mit rlt 1 | ruheraum mit rlt 1
+13314,ruheraum mit waschtisch und rlt 1,NUF_1,ruheraum mit waschtisch und rlt 1,ruheraum mit waschtisch und rlt 1 | ruheraum mit waschtisch und rlt 1
+13321,patientenruheraum,NUF_1,patientenruheraum,patientenruheraum | patientenruheraum
+13322,patientenruheraum mit rlt 1,NUF_1,patientenruheraum mit rlt 1,patientenruheraum mit rlt 1 | patientenruheraum mit rlt 1
+141,warteräume/ warteflächen,NUF_1,warteraume/ warteflachen,warteräume/ warteflächen | warteraume/ warteflachen
+14111,warteraum/ wartefläche,NUF_1,warteraum/ warteflache,warteraum/ wartefläche | warteraum/ warteflache
+14112,warteraum/ wartefläche mit rlt 1,NUF_1,warteraum/ warteflache mit rlt 1,warteraum/ wartefläche mit rlt 1 | warteraum/ warteflache mit rlt 1
+14113,warteraum/ wartefläche mit bes. bauk./ tech. anf.,NUF_1,warteraum/ warteflache mit bes. bauk./ tech. anf.,warteraum/ wartefläche mit bes. bauk./ tech. anf. | warteraum/ warteflache mit bes. bauk./ tech. anf.
+14114,warteraum/ wartefläche mit bes. bauk./ tech. anf. und rlt 1,NUF_1,warteraum/ warteflache mit bes. bauk./ tech. anf. und rlt 1,warteraum/ wartefläche mit bes. bauk./ tech. anf. und rlt 1 | warteraum/ warteflache mit bes. bauk./ tech. anf. und rlt 1
+14115,warteraum/ wartefläche mit bes. bauk./ tech. anf. und rlt 2,NUF_1,warteraum/ warteflache mit bes. bauk./ tech. anf. und rlt 2,warteraum/ wartefläche mit bes. bauk./ tech. anf. und rlt 2 | warteraum/ warteflache mit bes. bauk./ tech. anf. und rlt 2
+142,wartehallen,NUF_1,wartehallen,wartehallen | wartehallen
+14211,wartehalle,NUF_1,wartehalle,wartehalle | wartehalle
+14212,wartehalle mit rlt 1,NUF_1,wartehalle mit rlt 1,wartehalle mit rlt 1 | wartehalle mit rlt 1
+14213,wartehalle mit bes. bauk./ tech. anf.,NUF_1,wartehalle mit bes. bauk./ tech. anf.,wartehalle mit bes. bauk./ tech. anf. | wartehalle mit bes. bauk./ tech. anf.
+14214,wartehalle mit bes. bauk./ tech. anf. und rlt 1,NUF_1,wartehalle mit bes. bauk./ tech. anf. und rlt 1,wartehalle mit bes. bauk./ tech. anf. und rlt 1 | wartehalle mit bes. bauk./ tech. anf. und rlt 1
+14215,wartehalle mit bes. bauk./ tech. anf. und rlt 2,NUF_1,wartehalle mit bes. bauk./ tech. anf. und rlt 2,wartehalle mit bes. bauk./ tech. anf. und rlt 2 | wartehalle mit bes. bauk./ tech. anf. und rlt 2
+151,speiseräume/ speisesaal,NUF_1,speiseraume/ speisesaal,speiseräume/ speisesaal | speiseraume/ speisesaal
+15111,speiseraum,NUF_1,speiseraum,speiseraum | speiseraum
+15112,speiseraum mit rlt 1,NUF_1,speiseraum mit rlt 1,speiseraum mit rlt 1 | speiseraum mit rlt 1
+15121,speisesaal,NUF_1,speisesaal,speisesaal | speisesaal
+15122,speisesaal mit rlt 1,NUF_1,speisesaal mit rlt 1,speisesaal mit rlt 1 | speisesaal mit rlt 1
+152,cafeteria,NUF_1,cafeteria,cafeteria | cafeteria
+15211,cafeteria,NUF_1,cafeteria,cafeteria | cafeteria
+15212,cafeteria mit rlt 1,NUF_1,cafeteria mit rlt 1,cafeteria mit rlt 1 | cafeteria mit rlt 1
+161,einzel-/ gruppenhafträume,NUF_1,einzel-/ gruppenhaftraume,einzel-/ gruppenhafträume | einzel-/ gruppenhaftraume
+16111,einzelhaftraum,NUF_1,einzelhaftraum,einzelhaftraum | einzelhaftraum
+16112,einzelhaftraum mit rlt 1,NUF_1,einzelhaftraum mit rlt 1,einzelhaftraum mit rlt 1 | einzelhaftraum mit rlt 1
+16113,haftraum besonders gesichert mit rlt 3,NUF_1,haftraum besonders gesichert mit rlt 3,haftraum besonders gesichert mit rlt 3 | haftraum besonders gesichert mit rlt 3
+16121,gemeinschaftshaftraum,NUF_1,gemeinschaftshaftraum,gemeinschaftshaftraum | gemeinschaftshaftraum
+16122,gemeinschaftshaftraum mit rlt 1,NUF_1,gemeinschaftshaftraum mit rlt 1,gemeinschaftshaftraum mit rlt 1 | gemeinschaftshaftraum mit rlt 1
+16131,verwahrraum mit rlt 1,NUF_1,verwahrraum mit rlt 1,verwahrraum mit rlt 1 | verwahrraum mit rlt 1
+16132,ausnüchterungszelle mit rlt 3,NUF_1,ausnuchterungszelle mit rlt 3,ausnüchterungszelle mit rlt 3 | ausnuchterungszelle mit rlt 3
+16133,haftsprechraum mit rlt 1,NUF_1,haftsprechraum mit rlt 1,haftsprechraum mit rlt 1 | haftsprechraum mit rlt 1
+16134,vorraum für besonders gesicherten haftraum mit rlt 1,NUF_1,vorraum fur besonders gesicherten haftraum mit rlt 1,vorraum für besonders gesicherten haftraum mit rlt 1 | vorraum fur besonders gesicherten haftraum mit rlt 1
+211,"allgem. büroräume, arbeitsplatzflächen",NUF_2,"allgem. buroraume, arbeitsplatzflachen","allgem. büroräume, arbeitsplatzflächen | allgem. buroraume, arbeitsplatzflachen"
+21111,büroraum,NUF_2,buroraum,büroraum | buroraum
+21112,büroraum mit rlt1,NUF_2,buroraum mit rlt1,büroraum mit rlt1 | buroraum mit rlt1
+21113,einzelarbeitsplatzfläche,NUF_2,einzelarbeitsplatzflache,einzelarbeitsplatzfläche | einzelarbeitsplatzflache
+21114,einzelarbeitsplatzfläche mit rlt 1,NUF_2,einzelarbeitsplatzflache mit rlt 1,einzelarbeitsplatzfläche mit rlt 1 | einzelarbeitsplatzflache mit rlt 1
+21115,büro im küchenbereich mit rlt 1,NUF_2,buro im kuchenbereich mit rlt 1,büro im küchenbereich mit rlt 1 | buro im kuchenbereich mit rlt 1
+21121,büro mit sicherheitsanforderungen und rlt 2,NUF_2,buro mit sicherheitsanforderungen und rlt 2,büro mit sicherheitsanforderungen und rlt 2 | buro mit sicherheitsanforderungen und rlt 2
+21122,büro mit besonderen sicherheitsanforderungen und rlt 2,NUF_2,buro mit besonderen sicherheitsanforderungen und rlt 2,büro mit besonderen sicherheitsanforderungen und rlt 2 | buro mit besonderen sicherheitsanforderungen und rlt 2
+212,"büroräume/ diensträume, fläche für spezielle arbeitsplätze",NUF_2,"buroraume/ dienstraume, flache fur spezielle arbeitsplatze","büroräume/ diensträume, fläche für spezielle arbeitsplätze | buroraume/ dienstraume, flache fur spezielle arbeitsplatze"
+21211,schreibdienst,NUF_2,schreibdienst,schreibdienst | schreibdienst
+21212,sekretariat,NUF_2,sekretariat,sekretariat | sekretariat
+21213,büroraum mit manuellem/ experimentellem arbeitsplatz,NUF_2,buroraum mit manuellem/ experimentellem arbeitsplatz,büroraum mit manuellem/ experimentellem arbeitsplatz | buroraum mit manuellem/ experimentellem arbeitsplatz
+21214,büroraum mit manuellem/ experimentellem arbeitsplatz und rlt 1,NUF_2,buroraum mit manuellem/ experimentellem arbeitsplatz und rlt 1,büroraum mit manuellem/ experimentellem arbeitsplatz und rlt 1 | buroraum mit manuellem/ experimentellem arbeitsplatz und rlt 1
+21215,büroraum mit archivfunktion,NUF_2,buroraum mit archivfunktion,büroraum mit archivfunktion | buroraum mit archivfunktion
+21216,büroraum mit archivfunktion und rlt 1,NUF_2,buroraum mit archivfunktion und rlt 1,büroraum mit archivfunktion und rlt 1 | buroraum mit archivfunktion und rlt 1
+21217,büroraum mit materialausgabe,NUF_2,buroraum mit materialausgabe,büroraum mit materialausgabe | buroraum mit materialausgabe
+21218,büroraum mit materialausgabe und rlt 1,NUF_2,buroraum mit materialausgabe und rlt 1,büroraum mit materialausgabe und rlt 1 | buroraum mit materialausgabe und rlt 1
+21219,dolmetscherraum/-kabine mit rlt 1,NUF_2,dolmetscherraum/-kabine mit rlt 1,dolmetscherraum/-kabine mit rlt 1 | dolmetscherraum/-kabine mit rlt 1
+21221,funkzentrale mit rlt 2,NUF_2,funkzentrale mit rlt 2,funkzentrale mit rlt 2 | funkzentrale mit rlt 2
+21222,einsatzzentrale,NUF_2,einsatzzentrale,einsatzzentrale | einsatzzentrale
+21223,einsatzzentrale mit rlt 1,NUF_2,einsatzzentrale mit rlt 1,einsatzzentrale mit rlt 1 | einsatzzentrale mit rlt 1
+21224,einsatzzentrale gesichert mit rlt 2,NUF_2,einsatzzentrale gesichert mit rlt 2,einsatzzentrale gesichert mit rlt 2 | einsatzzentrale gesichert mit rlt 2
+21225,einsatzzentrale mit hygienischen anforderungen,NUF_2,einsatzzentrale mit hygienischen anforderungen,einsatzzentrale mit hygienischen anforderungen | einsatzzentrale mit hygienischen anforderungen
+21226,einsatzzentrale mit hygienischen anf. und rlt 1,NUF_2,einsatzzentrale mit hygienischen anf. und rlt 1,einsatzzentrale mit hygienischen anf. und rlt 1 | einsatzzentrale mit hygienischen anf. und rlt 1
+21227,einsatzzentrale mit hygienischen anf. und rlt2,NUF_2,einsatzzentrale mit hygienischen anf. und rlt2,einsatzzentrale mit hygienischen anf. und rlt2 | einsatzzentrale mit hygienischen anf. und rlt2
+213,telekommunikationsräume,NUF_2,telekommunikationsraume,telekommunikationsräume | telekommunikationsraume
+21311,fernsprechraum/-kabine,NUF_2,fernsprechraum/-kabine,fernsprechraum/-kabine | fernsprechraum/-kabine
+21312,fernsprechvermittlungsraum,NUF_2,fernsprechvermittlungsraum,fernsprechvermittlungsraum | fernsprechvermittlungsraum
+21313,fernsprechvermittlungsraum mit rlt 1,NUF_2,fernsprechvermittlungsraum mit rlt 1,fernsprechvermittlungsraum mit rlt 1 | fernsprechvermittlungsraum mit rlt 1
+21314,krypto raum / datenübertragung verschlüsselt mit rlt 2,NUF_2,krypto raum / datenubertragung verschlusselt mit rlt 2,krypto raum / datenübertragung verschlüsselt mit rlt 2 | krypto raum / datenubertragung verschlusselt mit rlt 2
+221,allgem. großraumbüro,NUF_2,allgem. grossraumburo,allgem. großraumbüro | allgem. grossraumburo
+22111,großraumbüro,NUF_2,grossraumburo,großraumbüro | grossraumburo
+22112,großraumbüro mit rlt 1,NUF_2,grossraumburo mit rlt 1,großraumbüro mit rlt 1 | grossraumburo mit rlt 1
+22113,großraumbüro mit schalter und rlt 2,NUF_2,grossraumburo mit schalter und rlt 2,großraumbüro mit schalter und rlt 2 | grossraumburo mit schalter und rlt 2
+231,sitzungsräume,NUF_2,sitzungsraume,sitzungsräume | sitzungsraume
+23111,konferenzraum,NUF_2,konferenzraum,konferenzraum | konferenzraum
+23112,konferenzraum mit bes. tech. anf. und rlt 1,NUF_2,konferenzraum mit bes. tech. anf. und rlt 1,konferenzraum mit bes. tech. anf. und rlt 1 | konferenzraum mit bes. tech. anf. und rlt 1
+23121,gerichtssaal,NUF_2,gerichtssaal,gerichtssaal | gerichtssaal
+23122,gerichtssaal mit rlt 1,NUF_2,gerichtssaal mit rlt 1,gerichtssaal mit rlt 1 | gerichtssaal mit rlt 1
+23123,parlamentssaal mit rlt 3,NUF_2,parlamentssaal mit rlt 3,parlamentssaal mit rlt 3 | parlamentssaal mit rlt 3
+232,besprechungsräume/ -flächen,NUF_2,besprechungsraume/ -flachen,besprechungsräume/ -flächen | besprechungsraume/ -flachen
+23211,besprechungsraum/ kommunikationsfläche,NUF_2,besprechungsraum/ kommunikationsflache,besprechungsraum/ kommunikationsfläche | besprechungsraum/ kommunikationsflache
+23212,besprechungsraum mit rlt 1,NUF_2,besprechungsraum mit rlt 1,besprechungsraum mit rlt 1 | besprechungsraum mit rlt 1
+23221,besprechungsraum mit sicherheitsanforderungen und rlt 2,NUF_2,besprechungsraum mit sicherheitsanforderungen und rlt 2,besprechungsraum mit sicherheitsanforderungen und rlt 2 | besprechungsraum mit sicherheitsanforderungen und rlt 2
+23231,sprechzimmer,NUF_2,sprechzimmer,sprechzimmer | sprechzimmer
+23232,sprechzimmer mit rlt 1,NUF_2,sprechzimmer mit rlt 1,sprechzimmer mit rlt 1 | sprechzimmer mit rlt 1
+23233,kindgerechter vernehmungsraum mit rlt 1,NUF_2,kindgerechter vernehmungsraum mit rlt 1,kindgerechter vernehmungsraum mit rlt 1 | kindgerechter vernehmungsraum mit rlt 1
+241,zeichenräume,NUF_2,zeichenraume,zeichenräume | zeichenraume
+24111,konstruktionsraum,NUF_2,konstruktionsraum,konstruktionsraum | konstruktionsraum
+24112,konstruktionsraum mit rlt 1,NUF_2,konstruktionsraum mit rlt 1,konstruktionsraum mit rlt 1 | konstruktionsraum mit rlt 1
+251,kassenräume,NUF_2,kassenraume,kassenräume | kassenraume
+25111,zahlstelle/kassenraum,NUF_2,zahlstelle/kassenraum,zahlstelle/kassenraum | zahlstelle/kassenraum
+25112,zahlstelle/kassenraum mit rlt 1,NUF_2,zahlstelle/kassenraum mit rlt 1,zahlstelle/kassenraum mit rlt 1 | zahlstelle/kassenraum mit rlt 1
+25113,kartenschalter,NUF_2,kartenschalter,kartenschalter | kartenschalter
+25114,kartenschalter mit rlt 1,NUF_2,kartenschalter mit rlt 1,kartenschalter mit rlt 1 | kartenschalter mit rlt 1
+261,aufsichtsräume,NUF_2,aufsichtsraume,aufsichtsräume | aufsichtsraume
+26111,aufsichtsraum,NUF_2,aufsichtsraum,aufsichtsraum | aufsichtsraum
+26112,aufsichtsraum mit rlt 1,NUF_2,aufsichtsraum mit rlt 1,aufsichtsraum mit rlt 1 | aufsichtsraum mit rlt 1
+26113,pförtnerraum,NUF_2,pfortnerraum,pförtnerraum | pfortnerraum
+26114,pförtnerraum mit rlt 1,NUF_2,pfortnerraum mit rlt 1,pförtnerraum mit rlt 1 | pfortnerraum mit rlt 1
+26115,wachraum mit rlt 2,NUF_2,wachraum mit rlt 2,wachraum mit rlt 2 | wachraum mit rlt 2
+26121,aufsichtsraum mit überfallmeldeanlage und rlt 1,NUF_2,aufsichtsraum mit uberfallmeldeanlage und rlt 1,aufsichtsraum mit überfallmeldeanlage und rlt 1 | aufsichtsraum mit uberfallmeldeanlage und rlt 1
+26122,pförtner/ wache mit rlt 2,NUF_2,pfortner/ wache mit rlt 2,pförtner/ wache mit rlt 2 | pfortner/ wache mit rlt 2
+26123,haftaufsichtsraum mit rlt 2,NUF_2,haftaufsichtsraum mit rlt 2,haftaufsichtsraum mit rlt 2 | haftaufsichtsraum mit rlt 2
+26211,patientenüberwachungsraum mit rlt 1,NUF_2,patientenuberwachungsraum mit rlt 1,patientenüberwachungsraum mit rlt 1 | patientenuberwachungsraum mit rlt 1
+26212,patientenüberwachungsraum mit bes. anf. und rlt 3,NUF_2,patientenuberwachungsraum mit bes. anf. und rlt 3,patientenüberwachungsraum mit bes. anf. und rlt 3 | patientenuberwachungsraum mit bes. anf. und rlt 3
+271,vervielfältigungsräume,NUF_2,vervielfaltigungsraume,vervielfältigungsräume | vervielfaltigungsraume
+27111,fotokopierraum / druckerraum,NUF_2,fotokopierraum / druckerraum,fotokopierraum / druckerraum | fotokopierraum / druckerraum
+27112,fotokopierraum / druckerraum mit rlt 1,NUF_2,fotokopierraum / druckerraum mit rlt 1,fotokopierraum / druckerraum mit rlt 1 | fotokopierraum / druckerraum mit rlt 1
+27113,plotterraum,NUF_2,plotterraum,plotterraum | plotterraum
+27114,plotterraum mit rlt 1,NUF_2,plotterraum mit rlt 1,plotterraum mit rlt 1 | plotterraum mit rlt 1
+27115,rapid-prototyping (3d-drucker) mit rlt 1,NUF_2,rapid-prototyping (3d-drucker) mit rlt 1,rapid-prototyping (3d-drucker) mit rlt 1 | rapid-prototyping (3d-drucker) mit rlt 1
+272,filmbearbeitungsräume,NUF_2,filmbearbeitungsraume,filmbearbeitungsräume | filmbearbeitungsraume
+27211,filmbearbeitungs- / schneideraum mit rlt 1,NUF_2,filmbearbeitungs- / schneideraum mit rlt 1,filmbearbeitungs- / schneideraum mit rlt 1 | filmbearbeitungs- / schneideraum mit rlt 1
+27212,filmmagazin-/-laderaum mit rlt 1,NUF_2,filmmagazin-/-laderaum mit rlt 1,filmmagazin-/-laderaum mit rlt 1 | filmmagazin-/-laderaum mit rlt 1
+27213,dunkelkammer mit rlt 1,NUF_2,dunkelkammer mit rlt 1,dunkelkammer mit rlt 1 | dunkelkammer mit rlt 1
+311,produktionhallen,NUF_3,produktionhallen,produktionhallen | produktionhallen
+31111,produktionshalle für grundstoffe,NUF_3,produktionshalle fur grundstoffe,produktionshalle für grundstoffe | produktionshalle fur grundstoffe
+31112,produktionshalle für investitions- und versorgungsgüter,NUF_3,produktionshalle fur investitions- und versorgungsguter,produktionshalle für investitions- und versorgungsgüter | produktionshalle fur investitions- und versorgungsguter
+31113,produktionshalle für nahrungs- und genußmittel,NUF_3,produktionshalle fur nahrungs- und genussmittel,produktionshalle für nahrungs- und genußmittel | produktionshalle fur nahrungs- und genussmittel
+312,instandsetzungs-/ wartungshallen,NUF_3,instandsetzungs-/ wartungshallen,instandsetzungs-/ wartungshallen | instandsetzungs-/ wartungshallen
+31211,instandsetzungs-/ wartungshalle,NUF_3,instandsetzungs-/ wartungshalle,instandsetzungs-/ wartungshalle | instandsetzungs-/ wartungshalle
+313,forschungs- und entwicklungshalle für ingenieuwissenschaften,NUF_3,forschungs- und entwicklungshalle fur ingenieuwissenschaften,forschungs- und entwicklungshalle für ingenieuwissenschaften | forschungs- und entwicklungshalle fur ingenieuwissenschaften
+31311,technologische versuchshalle mit rlt 2,NUF_3,technologische versuchshalle mit rlt 2,technologische versuchshalle mit rlt 2 | technologische versuchshalle mit rlt 2
+314,versuchs-/ experimentierhallen für naturwissenschaften,NUF_3,versuchs-/ experimentierhallen fur naturwissenschaften,versuchs-/ experimentierhallen für naturwissenschaften | versuchs-/ experimentierhallen fur naturwissenschaften
+31411,halle für physikalische versuche mit rlt 2,NUF_3,halle fur physikalische versuche mit rlt 2,halle für physikalische versuche mit rlt 2 | halle fur physikalische versuche mit rlt 2
+31421,halle für chemische versuche mit rlt2,NUF_3,halle fur chemische versuche mit rlt2,halle für chemische versuche mit rlt2 | halle fur chemische versuche mit rlt2
+315,versuchs-/ experimentierhallen mit reinraumklassifizierung,NUF_3,versuchs-/ experimentierhallen mit reinraumklassifizierung,versuchs-/ experimentierhallen mit reinraumklassifizierung | versuchs-/ experimentierhallen mit reinraumklassifizierung
+31511,reinraumklasse bis 100000,NUF_3,reinraumklasse bis 100000,reinraumklasse bis 100000 | reinraumklasse bis 100000
+31512,reinraumklasse bis 10000,NUF_3,reinraumklasse bis 10000,reinraumklasse bis 10000 | reinraumklasse bis 10000
+31513,reinraumklasse bis 1000,NUF_3,reinraumklasse bis 1000,reinraumklasse bis 1000 | reinraumklasse bis 1000
+31514,reinraumklasse bis 100,NUF_3,reinraumklasse bis 100,reinraumklasse bis 100 | reinraumklasse bis 100
+31515,reinraumklasse bis 10,NUF_3,reinraumklasse bis 10,reinraumklasse bis 10 | reinraumklasse bis 10
+319,sonderversuchshalle,NUF_3,sonderversuchshalle,sonderversuchshalle | sonderversuchshalle
+31911,sonderversuchshalle,NUF_3,sonderversuchshalle,sonderversuchshalle | sonderversuchshalle
+321,produktion,NUF_3,produktion,produktion | produktion
+32111,"blechbearbeitung, montage-, stahlbau",NUF_3,"blechbearbeitung, montage-, stahlbau","blechbearbeitung, montage-, stahlbau | blechbearbeitung, montage-, stahlbau"
+32112,"schlosserei, härterei, schmiede",NUF_3,"schlosserei, harterei, schmiede","schlosserei, härterei, schmiede | schlosserei, harterei, schmiede"
+32113,"gießerei, schweißerei",NUF_3,"giesserei, schweisserei","gießerei, schweißerei | giesserei, schweisserei"
+32114,werkstatt metall (fein),NUF_3,werkstatt metall (fein),werkstatt metall (fein) | werkstatt metall (fein)
+32115,werkstatt metall (fein) mit fest eingebauten einrichtungen,NUF_3,werkstatt metall (fein) mit fest eingebauten einrichtungen,werkstatt metall (fein) mit fest eingebauten einrichtungen | werkstatt metall (fein) mit fest eingebauten einrichtungen
+32116,laser-schneide-werkstatt,NUF_3,laser-schneide-werkstatt,laser-schneide-werkstatt | laser-schneide-werkstatt
+32121,werkstatt elektrotechnik,NUF_3,werkstatt elektrotechnik,werkstatt elektrotechnik | werkstatt elektrotechnik
+32131,werkstatt oberflächenbehandlung,NUF_3,werkstatt oberflachenbehandlung,werkstatt oberflächenbehandlung | werkstatt oberflachenbehandlung
+32132,werkstatt oberflächenbehandlung mit sonderabsaugung,NUF_3,werkstatt oberflachenbehandlung mit sonderabsaugung,werkstatt oberflächenbehandlung mit sonderabsaugung | werkstatt oberflachenbehandlung mit sonderabsaugung
+32141,werkstatt holz/ kunststoff,NUF_3,werkstatt holz/ kunststoff,werkstatt holz/ kunststoff | werkstatt holz/ kunststoff
+32142,werkstatt holz/ kunststoff mit sonderabsaugung,NUF_3,werkstatt holz/ kunststoff mit sonderabsaugung,werkstatt holz/ kunststoff mit sonderabsaugung | werkstatt holz/ kunststoff mit sonderabsaugung
+324,räume für gesundheits- und körperpflege,NUF_3,raume fur gesundheits- und korperpflege,räume für gesundheits- und körperpflege | raume fur gesundheits- und korperpflege
+32411,frisör-/ kosmetikarbeitsraum,NUF_3,frisor-/ kosmetikarbeitsraum,frisör-/ kosmetikarbeitsraum | frisor-/ kosmetikarbeitsraum
+32421,prothetische / dental-werkstatt mit sonderabsaugung,NUF_3,prothetische / dental-werkstatt mit sonderabsaugung,prothetische / dental-werkstatt mit sonderabsaugung | prothetische / dental-werkstatt mit sonderabsaugung
+325,wartungsstationen/ instandsetzung,NUF_3,wartungsstationen/ instandsetzung,wartungsstationen/ instandsetzung | wartungsstationen/ instandsetzung
+32511,kfz-werkstatt mit sonderabsaugung,NUF_3,kfz-werkstatt mit sonderabsaugung,kfz-werkstatt mit sonderabsaugung | kfz-werkstatt mit sonderabsaugung
+32521,hausmeisterwerkstatt,NUF_3,hausmeisterwerkstatt,hausmeisterwerkstatt | hausmeisterwerkstatt
+32522,kfz-waschhalle,NUF_3,kfz-waschhalle,kfz-waschhalle | kfz-waschhalle
+331,materialprüf-/ materialbearbeitungslabor,NUF_3,materialpruf-/ materialbearbeitungslabor,materialprüf-/ materialbearbeitungslabor | materialpruf-/ materialbearbeitungslabor
+33111,technologisches labor,NUF_3,technologisches labor,technologisches labor | technologisches labor
+33112,technologisches labor mit erhöhten anforderungen,NUF_3,technologisches labor mit erhohten anforderungen,technologisches labor mit erhöhten anforderungen | technologisches labor mit erhohten anforderungen
+33113,technologisches labor mit erschütterungsschutz,NUF_3,technologisches labor mit erschutterungsschutz,technologisches labor mit erschütterungsschutz | technologisches labor mit erschutterungsschutz
+33114,"technologisches labor mit zusätzlichen anforderungen,",NUF_3,"technologisches labor mit zusatzlichen anforderungen,","technologisches labor mit zusätzlichen anforderungen, | technologisches labor mit zusatzlichen anforderungen,"
+33115,technologisches labor mit berstwänden,NUF_3,technologisches labor mit berstwanden,technologisches labor mit berstwänden | technologisches labor mit berstwanden
+332,licht-/ schalltechnische labore,NUF_3,licht-/ schalltechnische labore,licht-/ schalltechnische labore | licht-/ schalltechnische labore
+33211,lichttechnisches labor,NUF_3,lichttechnisches labor,lichttechnisches labor | lichttechnisches labor
+33221,schalltechnisches labor,NUF_3,schalltechnisches labor,schalltechnisches labor | schalltechnisches labor
+333,labor für mech. verfahrenstechnik,NUF_3,labor fur mech. verfahrenstechnik,labor für mech. verfahrenstechnik | labor fur mech. verfahrenstechnik
+33311,labor für stationäre maschinen,NUF_3,labor fur stationare maschinen,labor für stationäre maschinen | labor fur stationare maschinen
+334,kriminaltechnische labore,NUF_3,kriminaltechnische labore,kriminaltechnische labore | kriminaltechnische labore
+33411,kriminaltechnisches labor,NUF_3,kriminaltechnisches labor,kriminaltechnisches labor | kriminaltechnisches labor
+33412,kriminaltechnisches labor_täter/ opfer-raum,NUF_3,kriminaltechnisches labor_tater/ opfer-raum,kriminaltechnisches labor_täter/ opfer-raum | kriminaltechnisches labor_tater/ opfer-raum
+341,elektrotechnik/ elektronische labore (raumlufttechnik standard),NUF_3,elektrotechnik/ elektronische labore (raumlufttechnik standard),elektrotechnik/ elektronische labore (raumlufttechnik standard) | elektrotechnik/ elektronische labore (raumlufttechnik standard)
+34111,elektroniklabor mit rlt 2,NUF_3,elektroniklabor mit rlt 2,elektroniklabor mit rlt 2 | elektroniklabor mit rlt 2
+34112,elektroniklabor mit rlt 2 und sondergase,NUF_3,elektroniklabor mit rlt 2 und sondergase,elektroniklabor mit rlt 2 und sondergase | elektroniklabor mit rlt 2 und sondergase
+342,labore für physik,NUF_3,labore fur physik,labore für physik | labore fur physik
+34211,physiklabor (einfaches physikalisches messlabor),NUF_3,physiklabor (einfaches physikalisches messlabor),physiklabor (einfaches physikalisches messlabor) | physiklabor (einfaches physikalisches messlabor)
+34212,physiklabor mit bes. anforderungen,NUF_3,physiklabor mit bes. anforderungen,physiklabor mit bes. anforderungen | physiklabor mit bes. anforderungen
+34213,physiklabor mit besonderen rlt anforderungen,NUF_3,physiklabor mit besonderen rlt anforderungen,physiklabor mit besonderen rlt anforderungen | physiklabor mit besonderen rlt anforderungen
+34221,physiklabor und meßraum mit elektromagnetischer abschirmung,NUF_3,physiklabor und messraum mit elektromagnetischer abschirmung,physiklabor und meßraum mit elektromagnetischer abschirmung | physiklabor und messraum mit elektromagnetischer abschirmung
+34222,physiklabor und meßraum mit erschütterungsschutz (nmr),NUF_3,physiklabor und messraum mit erschutterungsschutz (nmr),physiklabor und meßraum mit erschütterungsschutz (nmr) | physiklabor und messraum mit erschutterungsschutz (nmr)
+34223,physiklabor und meßraum mit einfachem strahlenschutz,NUF_3,physiklabor und messraum mit einfachem strahlenschutz,physiklabor und meßraum mit einfachem strahlenschutz | physiklabor und messraum mit einfachem strahlenschutz
+34224,physiklabor und meßraum mit erhöhtem strahlenschutz und rlt-anforderungen,NUF_3,physiklabor und messraum mit erhohtem strahlenschutz und rlt-anforderungen,physiklabor und meßraum mit erhöhtem strahlenschutz und rlt-anforderungen | physiklabor und messraum mit erhohtem strahlenschutz und rlt-anforderungen
+34225,physiklabor (reinraum mit bes. rlt.-anf.),NUF_3,physiklabor (reinraum mit bes. rlt.-anf.),physiklabor (reinraum mit bes. rlt.-anf.) | physiklabor (reinraum mit bes. rlt.-anf.)
+34231,physikalischer meßraum mit besonderen rlt-anforderungen,NUF_3,physikalischer messraum mit besonderen rlt-anforderungen,physikalischer meßraum mit besonderen rlt-anforderungen | physikalischer messraum mit besonderen rlt-anforderungen
+34232,physikalischer meßraum mit besonderen rlt-anforderungen und medienversorgung,NUF_3,physikalischer messraum mit besonderen rlt-anforderungen und medienversorgung,physikalischer meßraum mit besonderen rlt-anforderungen und medienversorgung | physikalischer messraum mit besonderen rlt-anforderungen und medienversorgung
+34233,physikalischer meß- und wägeraum mit dv (physikalischer meßraum),NUF_3,physikalischer mess- und wageraum mit dv (physikalischer messraum),physikalischer meß- und wägeraum mit dv (physikalischer meßraum) | physikalischer mess- und wageraum mit dv (physikalischer messraum)
+34234,physikalischer meß- und wägeraum mit dv und rlt-anforderungen,NUF_3,physikalischer mess- und wageraum mit dv und rlt-anforderungen,physikalischer meß- und wägeraum mit dv und rlt-anforderungen | physikalischer mess- und wageraum mit dv und rlt-anforderungen
+34241,kernphysiklabor mit dekontamination von abwasser und abluft,NUF_3,kernphysiklabor mit dekontamination von abwasser und abluft,kernphysiklabor mit dekontamination von abwasser und abluft | kernphysiklabor mit dekontamination von abwasser und abluft
+351,"medizinische, biologische, chemische labore",NUF_3,"medizinische, biologische, chemische labore","medizinische, biologische, chemische labore | medizinische, biologische, chemische labore"
+35121,anatomischer präparierraum,NUF_3,anatomischer praparierraum,anatomischer präparierraum | anatomischer praparierraum
+35131,chemisch-technisches labor mit bes. rlt-anforderungen,NUF_3,chemisch-technisches labor mit bes. rlt-anforderungen,chemisch-technisches labor mit bes. rlt-anforderungen | chemisch-technisches labor mit bes. rlt-anforderungen
+35132,chemisch-technisches labor mit bes. rlt-anf. und einf. strahlenschutz,NUF_3,chemisch-technisches labor mit bes. rlt-anf. und einf. strahlenschutz,chemisch-technisches labor mit bes. rlt-anf. und einf. strahlenschutz | chemisch-technisches labor mit bes. rlt-anf. und einf. strahlenschutz
+35141,"zentrifugenraum, einfach",NUF_3,"zentrifugenraum, einfach","zentrifugenraum, einfach | zentrifugenraum, einfach"
+352,labor für analytische und präparative chemie,NUF_3,labor fur analytische und praparative chemie,labor für analytische und präparative chemie | labor fur analytische und praparative chemie
+35211,labor für analytische arbeiten,NUF_3,labor fur analytische arbeiten,labor für analytische arbeiten | labor fur analytische arbeiten
+35212,labor für analytisch-/ präparativ-chemische arbeiten mit rlt 1,NUF_3,labor fur analytisch-/ praparativ-chemische arbeiten mit rlt 1,labor für analytisch-/ präparativ-chemische arbeiten mit rlt 1 | labor fur analytisch-/ praparativ-chemische arbeiten mit rlt 1
+35213,labor für analytisch- /präparativ-chemische arbeiten mit rlt 2,NUF_3,labor fur analytisch- /praparativ-chemische arbeiten mit rlt 2,labor für analytisch- /präparativ-chemische arbeiten mit rlt 2 | labor fur analytisch- /praparativ-chemische arbeiten mit rlt 2
+35214,labor für analytisch-/ präparativ-chemische arbeiten mit klimakonstanz und rlt 3,NUF_3,labor fur analytisch-/ praparativ-chemische arbeiten mit klimakonstanz und rlt 3,labor für analytisch-/ präparativ-chemische arbeiten mit klimakonstanz und rlt 3 | labor fur analytisch-/ praparativ-chemische arbeiten mit klimakonstanz und rlt 3
+35215,kälte-labor,NUF_3,kalte-labor,kälte-labor | kalte-labor
+353,biochemische labore ohne sicherheitsanforderungen gemäß gentsv,NUF_3,biochemische labore ohne sicherheitsanforderungen gemass gentsv,biochemische labore ohne sicherheitsanforderungen gemäß gentsv | biochemische labore ohne sicherheitsanforderungen gemass gentsv
+35311,labor mit medienversorgung,NUF_3,labor mit medienversorgung,labor mit medienversorgung | labor mit medienversorgung
+354,biochemische labore mit sicherheitsanforderungen gemäß gentsv,NUF_3,biochemische labore mit sicherheitsanforderungen gemass gentsv,biochemische labore mit sicherheitsanforderungen gemäß gentsv | biochemische labore mit sicherheitsanforderungen gemass gentsv
+35411,labor mit zusätzlichen hygieneanforderungen,NUF_3,labor mit zusatzlichen hygieneanforderungen,labor mit zusätzlichen hygieneanforderungen | labor mit zusatzlichen hygieneanforderungen
+35412,labor mit zusätzlichen hygieneanforderungen und medienversorgung,NUF_3,labor mit zusatzlichen hygieneanforderungen und medienversorgung,labor mit zusätzlichen hygieneanforderungen und medienversorgung | labor mit zusatzlichen hygieneanforderungen und medienversorgung
+35413,labor mit zusätzlichen hygienischen und besonderen rlt-anforderungen,NUF_3,labor mit zusatzlichen hygienischen und besonderen rlt-anforderungen,labor mit zusätzlichen hygienischen und besonderen rlt-anforderungen | labor mit zusatzlichen hygienischen und besonderen rlt-anforderungen
+35421,"labor mit besonderen hygieneanforderungen, zugang über schleuse ...",NUF_3,"labor mit besonderen hygieneanforderungen, zugang uber schleuse ...","labor mit besonderen hygieneanforderungen, zugang über schleuse ... | labor mit besonderen hygieneanforderungen, zugang uber schleuse ..."
+35422,labor m. bes. hygieneanf. / rlt-anf. u. schleuse,NUF_3,labor m. bes. hygieneanf. / rlt-anf. u. schleuse,labor m. bes. hygieneanf. / rlt-anf. u. schleuse | labor m. bes. hygieneanf. / rlt-anf. u. schleuse
+35423,labor m. bes. hygieneanf./ sep. rlt-anlage u. schleuse (s3),NUF_3,labor m. bes. hygieneanf./ sep. rlt-anlage u. schleuse (s3),labor m. bes. hygieneanf./ sep. rlt-anlage u. schleuse (s3) | labor m. bes. hygieneanf./ sep. rlt-anlage u. schleuse (s3)
+355,isotopenlabore,NUF_3,isotopenlabore,isotopenlabore | isotopenlabore
+35511,isotopenlabor mit dekontamination von abwasser und abluft,NUF_3,isotopenlabor mit dekontamination von abwasser und abluft,isotopenlabor mit dekontamination von abwasser und abluft | isotopenlabor mit dekontamination von abwasser und abluft
+35512,isotopenlabor mit bes. baukonstruktiven und rlt-anforderungen mit schleuse,NUF_3,isotopenlabor mit bes. baukonstruktiven und rlt-anforderungen mit schleuse,isotopenlabor mit bes. baukonstruktiven und rlt-anforderungen mit schleuse | isotopenlabor mit bes. baukonstruktiven und rlt-anforderungen mit schleuse
+35513,isotopenlabor mit dekontamination von abwasser u. abluft u.bes. rlt-anforderungen,NUF_3,isotopenlabor mit dekontamination von abwasser u. abluft u.bes. rlt-anforderungen,isotopenlabor mit dekontamination von abwasser u. abluft u.bes. rlt-anforderungen | isotopenlabor mit dekontamination von abwasser u. abluft u.bes. rlt-anforderungen
+35514,isotopenlabor mit erhöhten baukonstruktiven und rlt-anforderungen mit schleuse,NUF_3,isotopenlabor mit erhohten baukonstruktiven und rlt-anforderungen mit schleuse,isotopenlabor mit erhöhten baukonstruktiven und rlt-anforderungen mit schleuse | isotopenlabor mit erhohten baukonstruktiven und rlt-anforderungen mit schleuse
+356,brut-und nährbodenräume,NUF_3,brut-und nahrbodenraume,brut-und nährbodenräume | brut-und nahrbodenraume
+35611,brutschrankraum,NUF_3,brutschrankraum,brutschrankraum | brutschrankraum
+35621,klimakammer,NUF_3,klimakammer,klimakammer | klimakammer
+361,stallräume für nutztiere,NUF_3,stallraume fur nutztiere,stallräume für nutztiere | stallraume fur nutztiere
+36111,raum für stallhaltung,NUF_3,raum fur stallhaltung,raum für stallhaltung | raum fur stallhaltung
+362,stallräume für versuchs- und kranke tiere,NUF_3,stallraume fur versuchs- und kranke tiere,stallräume für versuchs- und kranke tiere | stallraume fur versuchs- und kranke tiere
+36211,raum für stallhaltung,NUF_3,raum fur stallhaltung,raum für stallhaltung | raum fur stallhaltung
+36221,tierhaltung experimentell,NUF_3,tierhaltung experimentell,tierhaltung experimentell | tierhaltung experimentell
+36222,tierhaltung experimentell mit rlt 3,NUF_3,tierhaltung experimentell mit rlt 3,tierhaltung experimentell mit rlt 3 | tierhaltung experimentell mit rlt 3
+363,räume für käfighaltung,NUF_3,raume fur kafighaltung,räume für käfighaltung | raume fur kafighaltung
+36311,raum für käfighaltung,NUF_3,raum fur kafighaltung,raum für käfighaltung | raum fur kafighaltung
+36321,hundzwinger,NUF_3,hundzwinger,hundzwinger | hundzwinger
+36322,laufgang,NUF_3,laufgang,laufgang | laufgang
+364,käfighaltung von versuchs- und kranken tieren,NUF_3,kafighaltung von versuchs- und kranken tieren,käfighaltung von versuchs- und kranken tieren | kafighaltung von versuchs- und kranken tieren
+36411,käfighaltung,NUF_3,kafighaltung,käfighaltung | kafighaltung
+36412,käfighaltung mit rlt 3,NUF_3,kafighaltung mit rlt 3,käfighaltung mit rlt 3 | kafighaltung mit rlt 3
+36421,käfighaltung mit rlt-anforderungen,NUF_3,kafighaltung mit rlt-anforderungen,käfighaltung mit rlt-anforderungen | kafighaltung mit rlt-anforderungen
+36423,käfighaltung mit rlt-anforderungen und einfachem strahlenschutz,NUF_3,kafighaltung mit rlt-anforderungen und einfachem strahlenschutz,käfighaltung mit rlt-anforderungen und einfachem strahlenschutz | kafighaltung mit rlt-anforderungen und einfachem strahlenschutz
+36431,käfighaltung spf mit schleuse für ivc,NUF_3,kafighaltung spf mit schleuse fur ivc,käfighaltung spf mit schleuse für ivc | kafighaltung spf mit schleuse fur ivc
+36432,käfighaltung spf mit schleuse (hochhyginische mit bes. rlt-anforderungen),NUF_3,kafighaltung spf mit schleuse (hochhyginische mit bes. rlt-anforderungen),käfighaltung spf mit schleuse (hochhyginische mit bes. rlt-anforderungen) | kafighaltung spf mit schleuse (hochhyginische mit bes. rlt-anforderungen)
+365,räume für beckenhaltung,NUF_3,raume fur beckenhaltung,räume für beckenhaltung | raume fur beckenhaltung
+36511,raum für beckenhaltung,NUF_3,raum fur beckenhaltung,raum für beckenhaltung | raum fur beckenhaltung
+366,tierpflege- und futteraufbereitungsräume,NUF_3,tierpflege- und futteraufbereitungsraume,tierpflege- und futteraufbereitungsräume | tierpflege- und futteraufbereitungsraume
+36611,tierpflegeraum,NUF_3,tierpflegeraum,tierpflegeraum | tierpflegeraum
+36612,tierpflegeraum mit rlt 1,NUF_3,tierpflegeraum mit rlt 1,tierpflegeraum mit rlt 1 | tierpflegeraum mit rlt 1
+36613,wärmetherapie / solarium mit rlt1,NUF_3,warmetherapie / solarium mit rlt1,wärmetherapie / solarium mit rlt1 | warmetherapie / solarium mit rlt1
+36614,tierpflegeraum/quarantäne,NUF_3,tierpflegeraum/quarantane,tierpflegeraum/quarantäne | tierpflegeraum/quarantane
+36615,raum für nassreinigung tiere,NUF_3,raum fur nassreinigung tiere,raum für nassreinigung tiere | raum fur nassreinigung tiere
+36621,"futteraufbereitungsraum, einfache ausführung",NUF_3,"futteraufbereitungsraum, einfache ausfuhrung","futteraufbereitungsraum, einfache ausführung | futteraufbereitungsraum, einfache ausfuhrung"
+36622,futteraufbereitungsraum,NUF_3,futteraufbereitungsraum,futteraufbereitungsraum | futteraufbereitungsraum
+367,milch-/melkräume,NUF_3,milch-/melkraume,milch-/melkräume | milch-/melkraume
+36711,melkraum,NUF_3,melkraum,melkraum | melkraum
+371,gewächshausräume,NUF_3,gewachshausraume,gewächshausräume | gewachshausraume
+37111,gewächshaus,NUF_3,gewachshaus,gewächshaus | gewachshaus
+37112,gewächshaus mit rlt1,NUF_3,gewachshaus mit rlt1,gewächshaus mit rlt1 | gewachshaus mit rlt1
+37113,pflanzenzuchtvorbereitungsraum,NUF_3,pflanzenzuchtvorbereitungsraum,pflanzenzuchtvorbereitungsraum | pflanzenzuchtvorbereitungsraum
+37114,gewächshaus mit pflanztischen,NUF_3,gewachshaus mit pflanztischen,gewächshaus mit pflanztischen | gewachshaus mit pflanztischen
+372,gewächshausräume experimentel,NUF_3,gewachshausraume experimentel,gewächshausräume experimentel | gewachshausraume experimentel
+37211,gewächshaus experimentell mit besonderen klimatischen anforderungen und rlt3,NUF_3,gewachshaus experimentell mit besonderen klimatischen anforderungen und rlt3,gewächshaus experimentell mit besonderen klimatischen anforderungen und rlt3 | gewachshaus experimentell mit besonderen klimatischen anforderungen und rlt3
+37212,pflanzenzuchtraum experimentell (raum mit klimakammern bestückt),NUF_3,pflanzenzuchtraum experimentell (raum mit klimakammern bestuckt),pflanzenzuchtraum experimentell (raum mit klimakammern bestückt) | pflanzenzuchtraum experimentell (raum mit klimakammern bestuckt)
+37213,"klimakammer,rlt 2",NUF_3,"klimakammer,rlt 2","klimakammer,rlt 2 | klimakammer,rlt 2"
+373,gewächshausräume mit sicherheitsanforderungen gemäß gentsv,NUF_3,gewachshausraume mit sicherheitsanforderungen gemass gentsv,gewächshausräume mit sicherheitsanforderungen gemäß gentsv | gewachshausraume mit sicherheitsanforderungen gemass gentsv
+37311,gewächshausraum s1,NUF_3,gewachshausraum s1,gewächshausraum s1 | gewachshausraum s1
+374,räume für pilzkulturen,NUF_3,raume fur pilzkulturen,räume für pilzkulturen | raume fur pilzkulturen
+37411,pilzzuchtraum,NUF_3,pilzzuchtraum,pilzzuchtraum | pilzzuchtraum
+381,"voll- und teilküchen, backräume",NUF_3,"voll- und teilkuchen, backraume","voll- und teilküchen, backräume | voll- und teilkuchen, backraume"
+38111,"großküche mit sonderabsaugung, lüftungsdecke und rlt 1",NUF_3,"grosskuche mit sonderabsaugung, luftungsdecke und rlt 1","großküche mit sonderabsaugung, lüftungsdecke und rlt 1 | grosskuche mit sonderabsaugung, luftungsdecke und rlt 1"
+38112,regenerierküche (cook and chill) mit rlt 2,NUF_3,regenerierkuche (cook and chill) mit rlt 2,regenerierküche (cook and chill) mit rlt 2 | regenerierkuche (cook and chill) mit rlt 2
+38121,küchen zur speiseerwärmung mit rlt 1,NUF_3,kuchen zur speiseerwarmung mit rlt 1,küchen zur speiseerwärmung mit rlt 1 | kuchen zur speiseerwarmung mit rlt 1
+38131,backraum mit sonderabsaugung und rlt 1,NUF_3,backraum mit sonderabsaugung und rlt 1,backraum mit sonderabsaugung und rlt 1 | backraum mit sonderabsaugung und rlt 1
+382,vorbereitungsräume,NUF_3,vorbereitungsraume,vorbereitungsräume | vorbereitungsraume
+38211,küchenvorbereitungsraum mit lüftungsdecke und rlt 1,NUF_3,kuchenvorbereitungsraum mit luftungsdecke und rlt 1,küchenvorbereitungsraum mit lüftungsdecke und rlt 1 | kuchenvorbereitungsraum mit luftungsdecke und rlt 1
+383,speise-/ getränkeausgaben,NUF_3,speise-/ getrankeausgaben,speise-/ getränkeausgaben | speise-/ getrankeausgaben
+38311,speiseausgabe/ getränkeausgabe mit sonderabsaugung und rlt 1,NUF_3,speiseausgabe/ getrankeausgabe mit sonderabsaugung und rlt 1,speiseausgabe/ getränkeausgabe mit sonderabsaugung und rlt 1 | speiseausgabe/ getrankeausgabe mit sonderabsaugung und rlt 1
+384,geschirrrückgaben/ -spülräume in küchen,NUF_3,geschirrruckgaben/ -spulraume in kuchen,geschirrrückgaben/ -spülräume in küchen | geschirrruckgaben/ -spulraume in kuchen
+38411,geschirrrückgabe,NUF_3,geschirrruckgabe,geschirrrückgabe | geschirrruckgabe
+38421,"spülküche mit rückgabeband, lüftungsdecke und rlt 1",NUF_3,"spulkuche mit ruckgabeband, luftungsdecke und rlt 1","spülküche mit rückgabeband, lüftungsdecke und rlt 1 | spulkuche mit ruckgabeband, luftungsdecke und rlt 1"
+38422,spülraum in küchen mit lüftungsdecke und rlt 1,NUF_3,spulraum in kuchen mit luftungsdecke und rlt 1,spülraum in küchen mit lüftungsdecke und rlt 1 | spulraum in kuchen mit luftungsdecke und rlt 1
+38423,wagenwäsche für küche mit rlt 1,NUF_3,wagenwasche fur kuche mit rlt 1,wagenwäsche für küche mit rlt 1 | wagenwasche fur kuche mit rlt 1
+391,hauswirtschafts- und hausarbeitsräume,NUF_3,hauswirtschafts- und hausarbeitsraume,hauswirtschafts- und hausarbeitsräume | hauswirtschafts- und hausarbeitsraume
+39111,hauswirtschaftsraum,NUF_3,hauswirtschaftsraum,hauswirtschaftsraum | hauswirtschaftsraum
+39121,hauswirtschaftsraum schule,NUF_3,hauswirtschaftsraum schule,hauswirtschaftsraum schule | hauswirtschaftsraum schule
+392,räume für wäschepflege/ wäscherei,NUF_3,raume fur waschepflege/ wascherei,räume für wäschepflege/ wäscherei | raume fur waschepflege/ wascherei
+39211,wäschereiraum,NUF_3,waschereiraum,wäschereiraum | waschereiraum
+39212,wäschereiraum mit sonderabsaugung und rlt 1,NUF_3,waschereiraum mit sonderabsaugung und rlt 1,wäschereiraum mit sonderabsaugung und rlt 1 | waschereiraum mit sonderabsaugung und rlt 1
+39213,stiefelwaschraum mit rlt 1,NUF_3,stiefelwaschraum mit rlt 1,stiefelwaschraum mit rlt 1 | stiefelwaschraum mit rlt 1
+39214,"gesundheitswäscherei, raumklasse ii",NUF_3,"gesundheitswascherei, raumklasse ii","gesundheitswäscherei, raumklasse ii | gesundheitswascherei, raumklasse ii"
+39221,wäschepflegeraum,NUF_3,waschepflegeraum,wäschepflegeraum | waschepflegeraum
+39222,wäschepflegeraum mit waschbecken,NUF_3,waschepflegeraum mit waschbecken,wäschepflegeraum mit waschbecken | waschepflegeraum mit waschbecken
+39223,"wäschepflegeraum mit waschbecken, sonderabsaugung und rlt 1",NUF_3,"waschepflegeraum mit waschbecken, sonderabsaugung und rlt 1","wäschepflegeraum mit waschbecken, sonderabsaugung und rlt 1 | waschepflegeraum mit waschbecken, sonderabsaugung und rlt 1"
+39231,trocknungsraum für kleidung mit rlt 2,NUF_3,trocknungsraum fur kleidung mit rlt 2,trocknungsraum für kleidung mit rlt 2 | trocknungsraum fur kleidung mit rlt 2
+393,desinfektions-/ sterilisationsräume von labor- und medizinischem gerät,NUF_3,desinfektions-/ sterilisationsraume von labor- und medizinischem gerat,desinfektions-/ sterilisationsräume von labor- und medizinischem gerät | desinfektions-/ sterilisationsraume von labor- und medizinischem gerat
+39311,instrumentenreinigungsraum mit rlt 1,NUF_3,instrumentenreinigungsraum mit rlt 1,instrumentenreinigungsraum mit rlt 1 | instrumentenreinigungsraum mit rlt 1
+39312,aufbereitungsraum für medizintechnisches gerät mit rlt 1,NUF_3,aufbereitungsraum fur medizintechnisches gerat mit rlt 1,aufbereitungsraum für medizintechnisches gerät mit rlt 1 | aufbereitungsraum fur medizintechnisches gerat mit rlt 1
+39313,sterilisationsraum mit sonderabsaugung und rlt 1,NUF_3,sterilisationsraum mit sonderabsaugung und rlt 1,sterilisationsraum mit sonderabsaugung und rlt 1 | sterilisationsraum mit sonderabsaugung und rlt 1
+39314,"zentralsterilisation, raumklasse ii",NUF_3,"zentralsterilisation, raumklasse ii","zentralsterilisation, raumklasse ii | zentralsterilisation, raumklasse ii"
+39315,geräteaufbereitung und -lager; raumklasse ii (op-bereich),NUF_3,gerateaufbereitung und -lager; raumklasse ii (op-bereich),geräteaufbereitung und -lager; raumklasse ii (op-bereich) | gerateaufbereitung und -lager; raumklasse ii (op-bereich)
+39321,käfigreinigung manuell mit rlt 1,NUF_3,kafigreinigung manuell mit rlt 1,käfigreinigung manuell mit rlt 1 | kafigreinigung manuell mit rlt 1
+39322,"käfigdesinfektion maschinell, rein, mit rlt 3",NUF_3,"kafigdesinfektion maschinell, rein, mit rlt 3","käfigdesinfektion maschinell, rein, mit rlt 3 | kafigdesinfektion maschinell, rein, mit rlt 3"
+39323,"käfigdesinfektion maschinell, unrein, rlt1",NUF_3,"kafigdesinfektion maschinell, unrein, rlt1","käfigdesinfektion maschinell, unrein, rlt1 | kafigdesinfektion maschinell, unrein, rlt1"
+394,spül-/ reinigungsräume,NUF_3,spul-/ reinigungsraume,spül-/ reinigungsräume | spul-/ reinigungsraume
+39411,pferdezubehör/melkzubehör,NUF_3,pferdezubehor/melkzubehor,pferdezubehör/melkzubehör | pferdezubehor/melkzubehor
+39421,spülraum im labor mit rlt 3,NUF_3,spulraum im labor mit rlt 3,spülraum im labor mit rlt 3 | spulraum im labor mit rlt 3
+39422,spülraum mit strahlenschutz und rlt 3,NUF_3,spulraum mit strahlenschutz und rlt 3,spülraum mit strahlenschutz und rlt 3 | spulraum mit strahlenschutz und rlt 3
+395,räume für bettenaufbereitung/ -reinigung/ -desinfektion,NUF_3,raume fur bettenaufbereitung/ -reinigung/ -desinfektion,räume für bettenaufbereitung/ -reinigung/ -desinfektion | raume fur bettenaufbereitung/ -reinigung/ -desinfektion
+39511,bettenreinigung manuell mit rlt 1,NUF_3,bettenreinigung manuell mit rlt 1,bettenreinigung manuell mit rlt 1 | bettenreinigung manuell mit rlt 1
+39512,bettendesinfektion maschinell mit rlt 1,NUF_3,bettendesinfektion maschinell mit rlt 1,bettendesinfektion maschinell mit rlt 1 | bettendesinfektion maschinell mit rlt 1
+39521,bettenaufbereitungsraum mit rlt 1,NUF_3,bettenaufbereitungsraum mit rlt 1,bettenaufbereitungsraum mit rlt 1 | bettenaufbereitungsraum mit rlt 1
+396,pflegearbeitsräume,NUF_3,pflegearbeitsraume,pflegearbeitsräume | pflegearbeitsraume
+39611,"pflegearbeitsraum rein, mit rlt 1",NUF_3,"pflegearbeitsraum rein, mit rlt 1","pflegearbeitsraum rein, mit rlt 1 | pflegearbeitsraum rein, mit rlt 1"
+39612,"pflegearbeitsraum unrein, mit rlt 1",NUF_3,"pflegearbeitsraum unrein, mit rlt 1","pflegearbeitsraum unrein, mit rlt 1 | pflegearbeitsraum unrein, mit rlt 1"
+39613,pflegestützpunkt mit rlt 1,NUF_3,pflegestutzpunkt mit rlt 1,pflegestützpunkt mit rlt 1 | pflegestutzpunkt mit rlt 1
+39614,pflegearbeitsraum rein mit bes. hygienischen anf. und rlt 3,NUF_3,pflegearbeitsraum rein mit bes. hygienischen anf. und rlt 3,pflegearbeitsraum rein mit bes. hygienischen anf. und rlt 3 | pflegearbeitsraum rein mit bes. hygienischen anf. und rlt 3
+39615,"pflegearbeitsraum unrein mit strahlenschutz, sonderabsaugung",NUF_3,"pflegearbeitsraum unrein mit strahlenschutz, sonderabsaugung","pflegearbeitsraum unrein mit strahlenschutz, sonderabsaugung | pflegearbeitsraum unrein mit strahlenschutz, sonderabsaugung"
+397,vorbereitungsräume,NUF_3,vorbereitungsraume,vorbereitungsräume | vorbereitungsraume
+39711,geräteraum labor,NUF_3,gerateraum labor,geräteraum labor | gerateraum labor
+39712,vorbereitungsraum mit labortech. einrichtungen und rlt 1,NUF_3,vorbereitungsraum mit labortech. einrichtungen und rlt 1,vorbereitungsraum mit labortech. einrichtungen und rlt 1 | vorbereitungsraum mit labortech. einrichtungen und rlt 1
+39713,"vorbereitungsraum labor mit strahlenschutz, sonderabsaugung",NUF_3,"vorbereitungsraum labor mit strahlenschutz, sonderabsaugung","vorbereitungsraum labor mit strahlenschutz, sonderabsaugung | vorbereitungsraum labor mit strahlenschutz, sonderabsaugung"
+39721,vorbereitungsraum geisteswissenschaft,NUF_3,vorbereitungsraum geisteswissenschaft,vorbereitungsraum geisteswissenschaft | vorbereitungsraum geisteswissenschaft
+39722,vorbereitungsraum naturwissenschaft,NUF_3,vorbereitungsraum naturwissenschaft,vorbereitungsraum naturwissenschaft | vorbereitungsraum naturwissenschaft
+411,"lager- und vorratsräume für material, gerät und waren",NUF_4,"lager- und vorratsraume fur material, gerat und waren","lager- und vorratsräume für material, gerät und waren | lager- und vorratsraume fur material, gerat und waren"
+41111,einfacher lagerraum,NUF_4,einfacher lagerraum,einfacher lagerraum | einfacher lagerraum
+41112,lagerraum,NUF_4,lagerraum,lagerraum | lagerraum
+41113,lagerraum mit rlt 1,NUF_4,lagerraum mit rlt 1,lagerraum mit rlt 1 | lagerraum mit rlt 1
+41114,lagerraum mit rlt 3,NUF_4,lagerraum mit rlt 3,lagerraum mit rlt 3 | lagerraum mit rlt 3
+41115,lagerraum mit bes. tech. anforderungen,NUF_4,lagerraum mit bes. tech. anforderungen,lagerraum mit bes. tech. anforderungen | lagerraum mit bes. tech. anforderungen
+41116,lagerraum für putzmittel,NUF_4,lagerraum fur putzmittel,lagerraum für putzmittel | lagerraum fur putzmittel
+41121,einfache lagerhalle,NUF_4,einfache lagerhalle,einfache lagerhalle | einfache lagerhalle
+41122,lagerhalle,NUF_4,lagerhalle,lagerhalle | lagerhalle
+41123,hochregallager,NUF_4,hochregallager,hochregallager | hochregallager
+41131,tresorraum,NUF_4,tresorraum,tresorraum | tresorraum
+41132,asservatenraum,NUF_4,asservatenraum,asservatenraum | asservatenraum
+41133,asservatenraum mit rlt 1,NUF_4,asservatenraum mit rlt 1,asservatenraum mit rlt 1 | asservatenraum mit rlt 1
+41134,lagerraum bes. gesichert mit rlt 2,NUF_4,lagerraum bes. gesichert mit rlt 2,lagerraum bes. gesichert mit rlt 2 | lagerraum bes. gesichert mit rlt 2
+41151,lagerraum für sterile erde,NUF_4,lagerraum fur sterile erde,lagerraum für sterile erde | lagerraum fur sterile erde
+41152,pflanzentopflager mit spüle und rlt 3,NUF_4,pflanzentopflager mit spule und rlt 3,pflanzentopflager mit spüle und rlt 3 | pflanzentopflager mit spule und rlt 3
+41161,"sterilgutversorgungslager (lager im op-bereich), raumklasse ii",NUF_4,"sterilgutversorgungslager (lager im op-bereich), raumklasse ii","sterilgutversorgungslager (lager im op-bereich), raumklasse ii | sterilgutversorgungslager (lager im op-bereich), raumklasse ii"
+41162,medikamentenlager; raumklasse ii (op-bereich),NUF_4,medikamentenlager; raumklasse ii (op-bereich),medikamentenlager; raumklasse ii (op-bereich) | medikamentenlager; raumklasse ii (op-bereich)
+41171,waffenschließfächer mit ladeecke,NUF_4,waffenschliessfacher mit ladeecke,waffenschließfächer mit ladeecke | waffenschliessfacher mit ladeecke
+41172,"munitions-, waffenlagerraum mit rlt 1",NUF_4,"munitions-, waffenlagerraum mit rlt 1","munitions-, waffenlagerraum mit rlt 1 | munitions-, waffenlagerraum mit rlt 1"
+412,lageräume für lebensmittel ohne kühlung; t>12°c,NUF_4,lageraume fur lebensmittel ohne kuhlung; t>12°c,lageräume für lebensmittel ohne kühlung; t>12°c | lageraume fur lebensmittel ohne kuhlung; t>12°c
+41211,lagerraum für milchtank,NUF_4,lagerraum fur milchtank,lagerraum für milchtank | lagerraum fur milchtank
+41212,lagerraum für lebensmittel mit rlt 1,NUF_4,lagerraum fur lebensmittel mit rlt 1,lagerraum für lebensmittel mit rlt 1 | lagerraum fur lebensmittel mit rlt 1
+41213,lagerraum mit hygienischen anforderungen und rlt 1,NUF_4,lagerraum mit hygienischen anforderungen und rlt 1,lagerraum mit hygienischen anforderungen und rlt 1 | lagerraum mit hygienischen anforderungen und rlt 1
+413,isotopenlagerräume (strahlenschutz),NUF_4,isotopenlagerraume (strahlenschutz),isotopenlagerräume (strahlenschutz) | isotopenlagerraume (strahlenschutz)
+41311,lagerraum mit einfachen strahlenschutz-anforderungen,NUF_4,lagerraum mit einfachen strahlenschutz-anforderungen,lagerraum mit einfachen strahlenschutz-anforderungen | lagerraum mit einfachen strahlenschutz-anforderungen
+41312,lagerraum mit höchsten strahlenschutz-anforderungen und zugang über schleuse,NUF_4,lagerraum mit hochsten strahlenschutz-anforderungen und zugang uber schleuse,lagerraum mit höchsten strahlenschutz-anforderungen und zugang über schleuse | lagerraum mit hochsten strahlenschutz-anforderungen und zugang uber schleuse
+414,sprengstofflager-/ lösungsmittellagerräume,NUF_4,sprengstofflager-/ losungsmittellagerraume,sprengstofflager-/ lösungsmittellagerräume | sprengstofflager-/ losungsmittellagerraume
+41411,lagerraum für explosivstoffe,NUF_4,lagerraum fur explosivstoffe,lagerraum für explosivstoffe | lagerraum fur explosivstoffe
+41421,lagerraum für chemikalien,NUF_4,lagerraum fur chemikalien,lagerraum für chemikalien | lagerraum fur chemikalien
+415,scheunen/ futtermittellagerräume,NUF_4,scheunen/ futtermittellagerraume,scheunen/ futtermittellagerräume | scheunen/ futtermittellagerraume
+41511,futtermittellager,NUF_4,futtermittellager,futtermittellager | futtermittellager
+41512,futtermittellager mit verarbeitung und rlt 1,NUF_4,futtermittellager mit verarbeitung und rlt 1,futtermittellager mit verarbeitung und rlt 1 | futtermittellager mit verarbeitung und rlt 1
+41513,futtermittellager mit bes. hygienischen anf. und rlt 3,NUF_4,futtermittellager mit bes. hygienischen anf. und rlt 3,futtermittellager mit bes. hygienischen anf. und rlt 3 | futtermittellager mit bes. hygienischen anf. und rlt 3
+421,archive/ registraturen,NUF_4,archive/ registraturen,archive/ registraturen | archive/ registraturen
+42111,archiv,NUF_4,archiv,archiv | archiv
+42112,archiv mit rlt 1,NUF_4,archiv mit rlt 1,archiv mit rlt 1 | archiv mit rlt 1
+42113,archiv mit rlt 3,NUF_4,archiv mit rlt 3,archiv mit rlt 3 | archiv mit rlt 3
+42114,archiv sicherheitsanforderungen und rlt 1,NUF_4,archiv sicherheitsanforderungen und rlt 1,archiv sicherheitsanforderungen und rlt 1 | archiv sicherheitsanforderungen und rlt 1
+42121,registratur,NUF_4,registratur,registratur | registratur
+42122,registratur mit arbeitsplatz,NUF_4,registratur mit arbeitsplatz,registratur mit arbeitsplatz | registratur mit arbeitsplatz
+42131,sammlungsraum,NUF_4,sammlungsraum,sammlungsraum | sammlungsraum
+422,lehrmittelräume/ buchmagazine,NUF_4,lehrmittelraume/ buchmagazine,lehrmittelräume/ buchmagazine | lehrmittelraume/ buchmagazine
+42211,magazin,NUF_4,magazin,magazin | magazin
+42212,magazin mit klimakonstanz,NUF_4,magazin mit klimakonstanz,magazin mit klimakonstanz | magazin mit klimakonstanz
+431,kühlräume für lebensmittel,NUF_4,kuhlraume fur lebensmittel,kühlräume für lebensmittel | kuhlraume fur lebensmittel
+43111,lebensmittelkühlraum,NUF_4,lebensmittelkuhlraum,lebensmittelkühlraum | lebensmittelkuhlraum
+43112,lebensmittelauftaukühlraum,NUF_4,lebensmittelauftaukuhlraum,lebensmittelauftaukühlraum | lebensmittelauftaukuhlraum
+43113,kühlraum cook and chill,NUF_4,kuhlraum cook and chill,kühlraum cook and chill | kuhlraum cook and chill
+43114,wildkammer,NUF_4,wildkammer,wildkammer | wildkammer
+43121,lebensmitteltiefkühlraum,NUF_4,lebensmitteltiefkuhlraum,lebensmitteltiefkühlraum | lebensmitteltiefkuhlraum
+432,kühlräume für medizinische zwecke,NUF_4,kuhlraume fur medizinische zwecke,kühlräume für medizinische zwecke | kuhlraume fur medizinische zwecke
+43211,kühlraum für medizinische zwecke,NUF_4,kuhlraum fur medizinische zwecke,kühlraum für medizinische zwecke | kuhlraum fur medizinische zwecke
+43221,kühlzelle für medizinische zwecke,NUF_4,kuhlzelle fur medizinische zwecke,kühlzelle für medizinische zwecke | kuhlzelle fur medizinische zwecke
+433,kühlräume für wissenschaftliche zwecke,NUF_4,kuhlraume fur wissenschaftliche zwecke,kühlräume für wissenschaftliche zwecke | kuhlraume fur wissenschaftliche zwecke
+43311,kühlraum für wissenschaftliche zwecke (nur kühlung),NUF_4,kuhlraum fur wissenschaftliche zwecke (nur kuhlung),kühlraum für wissenschaftliche zwecke (nur kühlung) | kuhlraum fur wissenschaftliche zwecke (nur kuhlung)
+43321,kühlraum für wissenschaftliche zwecke (tiefkühlung),NUF_4,kuhlraum fur wissenschaftliche zwecke (tiefkuhlung),kühlraum für wissenschaftliche zwecke (tiefkühlung) | kuhlraum fur wissenschaftliche zwecke (tiefkuhlung)
+434,räume für leichen/ tierkadaver,NUF_4,raume fur leichen/ tierkadaver,räume für leichen/ tierkadaver | raume fur leichen/ tierkadaver
+43411,leichenraum für anatomie,NUF_4,leichenraum fur anatomie,leichenraum für anatomie | leichenraum fur anatomie
+43412,leichenkühlraum,NUF_4,leichenkuhlraum,leichenkühlraum | leichenkuhlraum
+43421,kadaverraum mit rlt 2,NUF_4,kadaverraum mit rlt 2,kadaverraum mit rlt 2 | kadaverraum mit rlt 2
+441,sortier- und verteilräume,NUF_4,sortier- und verteilraume,sortier- und verteilräume | sortier- und verteilraume
+44111,annahme- und ausgaberaum,NUF_4,annahme- und ausgaberaum,annahme- und ausgaberaum | annahme- und ausgaberaum
+44112,annahme- und ausgaberaum mit rlt 1,NUF_4,annahme- und ausgaberaum mit rlt 1,annahme- und ausgaberaum mit rlt 1 | annahme- und ausgaberaum mit rlt 1
+44113,poststelle,NUF_4,poststelle,poststelle | poststelle
+44121,warenannahme lebensmittel (umpackraum),NUF_4,warenannahme lebensmittel (umpackraum),warenannahme lebensmittel (umpackraum) | warenannahme lebensmittel (umpackraum)
+44122,warenannahme mit hygienischen anf. (lebensmittel),NUF_4,warenannahme mit hygienischen anf. (lebensmittel),warenannahme mit hygienischen anf. (lebensmittel) | warenannahme mit hygienischen anf. (lebensmittel)
+442,pack- und versandräume,NUF_4,pack- und versandraume,pack- und versandräume | pack- und versandraume
+44211,packraum,NUF_4,packraum,packraum | packraum
+44212,packraum mit rlt 1,NUF_4,packraum mit rlt 1,packraum mit rlt 1 | packraum mit rlt 1
+44221,versandraum,NUF_4,versandraum,versandraum | versandraum
+443,ver-/ entsorgungsstützpunkte,NUF_4,ver-/ entsorgungsstutzpunkte,ver-/ entsorgungsstützpunkte | ver-/ entsorgungsstutzpunkte
+44311,versorgungsraum mit rlt 1,NUF_4,versorgungsraum mit rlt 1,versorgungsraum mit rlt 1 | versorgungsraum mit rlt 1
+44312,versorgungsraum mit nassarbeitsplatz und rlt 1,NUF_4,versorgungsraum mit nassarbeitsplatz und rlt 1,versorgungsraum mit nassarbeitsplatz und rlt 1 | versorgungsraum mit nassarbeitsplatz und rlt 1
+44313,versorgungsraum mit hygienischen anf. und rlt 3,NUF_4,versorgungsraum mit hygienischen anf. und rlt 3,versorgungsraum mit hygienischen anf. und rlt 3 | versorgungsraum mit hygienischen anf. und rlt 3
+44314,versorgungsraum raumklasse ii (op-bereich),NUF_4,versorgungsraum raumklasse ii (op-bereich),versorgungsraum raumklasse ii (op-bereich) | versorgungsraum raumklasse ii (op-bereich)
+44321,entsorgungsraum mit rlt 1,NUF_4,entsorgungsraum mit rlt 1,entsorgungsraum mit rlt 1 | entsorgungsraum mit rlt 1
+44322,entsorgungsraum mit nassarbeitsplatz und rlt 1,NUF_4,entsorgungsraum mit nassarbeitsplatz und rlt 1,entsorgungsraum mit nassarbeitsplatz und rlt 1 | entsorgungsraum mit nassarbeitsplatz und rlt 1
+44323,entsorgungsraum mit hygienischen anf. und rlt 3,NUF_4,entsorgungsraum mit hygienischen anf. und rlt 3,entsorgungsraum mit hygienischen anf. und rlt 3 | entsorgungsraum mit hygienischen anf. und rlt 3
+44324,"entsorgungsraum mit bes. hygienischen anf., strahlenschutz und rlt 3",NUF_4,"entsorgungsraum mit bes. hygienischen anf., strahlenschutz und rlt 3","entsorgungsraum mit bes. hygienischen anf., strahlenschutz und rlt 3 | entsorgungsraum mit bes. hygienischen anf., strahlenschutz und rlt 3"
+44325,entsorgungsraum raumklasse ii (op-bereich),NUF_4,entsorgungsraum raumklasse ii (op-bereich),entsorgungsraum raumklasse ii (op-bereich) | entsorgungsraum raumklasse ii (op-bereich)
+451,geschäftsräume,NUF_4,geschaftsraume,geschäftsräume | geschaftsraume
+45111,supermarktverkaufsraum mit rlt 1,NUF_4,supermarktverkaufsraum mit rlt 1,supermarktverkaufsraum mit rlt 1 | supermarktverkaufsraum mit rlt 1
+45112,kaufhausverkaufsraum mit rlt 1,NUF_4,kaufhausverkaufsraum mit rlt 1,kaufhausverkaufsraum mit rlt 1 | kaufhausverkaufsraum mit rlt 1
+45113,großmarkthallenverkaufsraum mit rlt 2,NUF_4,grossmarkthallenverkaufsraum mit rlt 2,großmarkthallenverkaufsraum mit rlt 2 | grossmarkthallenverkaufsraum mit rlt 2
+452,ladenräume/ kioske,NUF_4,ladenraume/ kioske,ladenräume/ kioske | ladenraume/ kioske
+45211,ticket schalter,NUF_4,ticket schalter,ticket schalter | ticket schalter
+45212,ladenraum,NUF_4,ladenraum,ladenraum | ladenraum
+45213,thekenbereich,NUF_4,thekenbereich,thekenbereich | thekenbereich
+45214,thekenbereich mit rlt 1,NUF_4,thekenbereich mit rlt 1,thekenbereich mit rlt 1 | thekenbereich mit rlt 1
+45221,kiosk mit rlt 1,NUF_4,kiosk mit rlt 1,kiosk mit rlt 1 | kiosk mit rlt 1
+461,messehallen,NUF_4,messehallen,messehallen | messehallen
+46111,verkaufsausstellungsraum,NUF_4,verkaufsausstellungsraum,verkaufsausstellungsraum | verkaufsausstellungsraum
+46112,messehalle mit rlt 1,NUF_4,messehalle mit rlt 1,messehalle mit rlt 1 | messehalle mit rlt 1
+46121,musteraustellungsraum,NUF_4,musteraustellungsraum,musteraustellungsraum | musteraustellungsraum
+46122,musteraustellungsraum mit rlt 1,NUF_4,musteraustellungsraum mit rlt 1,musteraustellungsraum mit rlt 1 | musteraustellungsraum mit rlt 1
+511,hör-/lehrsäle,NUF_5,hor-/lehrsale,hör-/lehrsäle | hor-/lehrsale
+51111,hör-/lehrsaal anst. m. exp.-bühne und rlt 1,NUF_5,hor-/lehrsaal anst. m. exp.-buhne und rlt 1,hör-/lehrsaal anst. m. exp.-bühne und rlt 1 | hor-/lehrsaal anst. m. exp.-buhne und rlt 1
+51112,"hör-/lehrsaal anst. m. exp.-bühne, mit labortech. anf. und rlt 1",NUF_5,"hor-/lehrsaal anst. m. exp.-buhne, mit labortech. anf. und rlt 1","hör-/lehrsaal anst. m. exp.-bühne, mit labortech. anf. und rlt 1 | hor-/lehrsaal anst. m. exp.-buhne, mit labortech. anf. und rlt 1"
+51121,hör-/lehrsaal eben m. exp.-bühne und rlt 1,NUF_5,hor-/lehrsaal eben m. exp.-buhne und rlt 1,hör-/lehrsaal eben m. exp.-bühne und rlt 1 | hor-/lehrsaal eben m. exp.-buhne und rlt 1
+51122,"hör-/lehrsaal eben m. exp.-bühne, mit labortech. anf. und rlt 1",NUF_5,"hor-/lehrsaal eben m. exp.-buhne, mit labortech. anf. und rlt 1","hör-/lehrsaal eben m. exp.-bühne, mit labortech. anf. und rlt 1 | hor-/lehrsaal eben m. exp.-buhne, mit labortech. anf. und rlt 1"
+51131,hör-/lehrsaal anst. o. exp.-bühne und rlt 1,NUF_5,hor-/lehrsaal anst. o. exp.-buhne und rlt 1,hör-/lehrsaal anst. o. exp.-bühne und rlt 1 | hor-/lehrsaal anst. o. exp.-buhne und rlt 1
+51132,"hör-/lehrsaal anst. o. exp.-bühne, mit labortech. anf. und rlt 1",NUF_5,"hor-/lehrsaal anst. o. exp.-buhne, mit labortech. anf. und rlt 1","hör-/lehrsaal anst. o. exp.-bühne, mit labortech. anf. und rlt 1 | hor-/lehrsaal anst. o. exp.-buhne, mit labortech. anf. und rlt 1"
+51141,hör-/lehrsaal eben o. exp.-bühne und rlt 1,NUF_5,hor-/lehrsaal eben o. exp.-buhne und rlt 1,hör-/lehrsaal eben o. exp.-bühne und rlt 1 | hor-/lehrsaal eben o. exp.-buhne und rlt 1
+51142,"hör-/lehrsaal eben o. exp.-bühne, mit labortech. anf. und rlt 1",NUF_5,"hor-/lehrsaal eben o. exp.-buhne, mit labortech. anf. und rlt 1","hör-/lehrsaal eben o. exp.-bühne, mit labortech. anf. und rlt 1 | hor-/lehrsaal eben o. exp.-buhne, mit labortech. anf. und rlt 1"
+521,seminar-/ unterrichtsräume,NUF_5,seminar-/ unterrichtsraume,seminar-/ unterrichtsräume | seminar-/ unterrichtsraume
+52111,seminar-/ unterrichtsraum einfach,NUF_5,seminar-/ unterrichtsraum einfach,seminar-/ unterrichtsraum einfach | seminar-/ unterrichtsraum einfach
+52112,seminar-/ unterrichtsraum mit medien,NUF_5,seminar-/ unterrichtsraum mit medien,seminar-/ unterrichtsraum mit medien | seminar-/ unterrichtsraum mit medien
+52113,seminar-/ unterrichtsraum mit medien und rlt 1,NUF_5,seminar-/ unterrichtsraum mit medien und rlt 1,seminar-/ unterrichtsraum mit medien und rlt 1 | seminar-/ unterrichtsraum mit medien und rlt 1
+52114,seminar-/ unterrichtsraum naturwissenschaften,NUF_5,seminar-/ unterrichtsraum naturwissenschaften,seminar-/ unterrichtsraum naturwissenschaften | seminar-/ unterrichtsraum naturwissenschaften
+522,seminar-/ unterrichtsgroßräume,NUF_5,seminar-/ unterrichtsgrossraume,seminar-/ unterrichtsgroßräume | seminar-/ unterrichtsgrossraume
+52211,seminar-/ unterrichtsgroßraum,NUF_5,seminar-/ unterrichtsgrossraum,seminar-/ unterrichtsgroßraum | seminar-/ unterrichtsgrossraum
+52212,seminar-/ unterrichtsgroßraum mit rlt 1,NUF_5,seminar-/ unterrichtsgrossraum mit rlt 1,seminar-/ unterrichtsgroßraum mit rlt 1 | seminar-/ unterrichtsgrossraum mit rlt 1
+523,übungs- und arbeitsräume,NUF_5,ubungs- und arbeitsraume,übungs- und arbeitsräume | ubungs- und arbeitsraume
+52311,übungsraum,NUF_5,ubungsraum,übungsraum | ubungsraum
+52312,übungsraum mit rlt 1,NUF_5,ubungsraum mit rlt 1,übungsraum mit rlt 1 | ubungsraum mit rlt 1
+531,"werk- und bastelräume, hauswirtschaftsräume, zeichensäle",NUF_5,"werk- und bastelraume, hauswirtschaftsraume, zeichensale","werk- und bastelräume, hauswirtschaftsräume, zeichensäle | werk- und bastelraume, hauswirtschaftsraume, zeichensale"
+53111,zeichensaal,NUF_5,zeichensaal,zeichensaal | zeichensaal
+53121,textilarbeitsraum,NUF_5,textilarbeitsraum,textilarbeitsraum | textilarbeitsraum
+53131,werkraum - holz mit sonderabsaugung,NUF_5,werkraum - holz mit sonderabsaugung,werkraum - holz mit sonderabsaugung | werkraum - holz mit sonderabsaugung
+53141,hauswirtschaftlicher unterrichtsraum,NUF_5,hauswirtschaftlicher unterrichtsraum,hauswirtschaftlicher unterrichtsraum | hauswirtschaftlicher unterrichtsraum
+532,"räume für grafik, malerei und bildhauerei",NUF_5,"raume fur grafik, malerei und bildhauerei","räume für grafik, malerei und bildhauerei | raume fur grafik, malerei und bildhauerei"
+53211,bildhauerklassenraum,NUF_5,bildhauerklassenraum,bildhauerklassenraum | bildhauerklassenraum
+53221,modellierraum - plastisches gestalten mit sonderabsaugung,NUF_5,modellierraum - plastisches gestalten mit sonderabsaugung,modellierraum - plastisches gestalten mit sonderabsaugung | modellierraum - plastisches gestalten mit sonderabsaugung
+533,sprachlabore/ edv-unterrichtsräume,NUF_5,sprachlabore/ edv-unterrichtsraume,sprachlabore/ edv-unterrichtsräume | sprachlabore/ edv-unterrichtsraume
+53311,computer pool/ cip pool mit rlt 2,NUF_5,computer pool/ cip pool mit rlt 2,computer pool/ cip pool mit rlt 2 | computer pool/ cip pool mit rlt 2
+53321,sprachlabore mit rlt 1,NUF_5,sprachlabore mit rlt 1,sprachlabore mit rlt 1 | sprachlabore mit rlt 1
+534,"räume und übungszellen für gesangs-, sprach- und instrumentalausbildung",NUF_5,"raume und ubungszellen fur gesangs-, sprach- und instrumentalausbildung","räume und übungszellen für gesangs-, sprach- und instrumentalausbildung | raume und ubungszellen fur gesangs-, sprach- und instrumentalausbildung"
+53411,musik-/sprechunterrichtsraum mit rlt 1,NUF_5,musik-/sprechunterrichtsraum mit rlt 1,musik-/sprechunterrichtsraum mit rlt 1 | musik-/sprechunterrichtsraum mit rlt 1
+535,verhaltensbeobachtungsräume,NUF_5,verhaltensbeobachtungsraume,verhaltensbeobachtungsräume | verhaltensbeobachtungsraume
+53511,verhaltensbeobachtungsraum,NUF_5,verhaltensbeobachtungsraum,verhaltensbeobachtungsraum | verhaltensbeobachtungsraum
+536,naturwisschaftlich / medizinische übungsräume,NUF_5,naturwisschaftlich / medizinische ubungsraume,naturwisschaftlich / medizinische übungsräume | naturwisschaftlich / medizinische ubungsraume
+53611,übungsraum naturwissenschaften,NUF_5,ubungsraum naturwissenschaften,übungsraum naturwissenschaften | ubungsraum naturwissenschaften
+53612,physikalisch-technischer übungsraum mit rlt 1,NUF_5,physikalisch-technischer ubungsraum mit rlt 1,physikalisch-technischer übungsraum mit rlt 1 | physikalisch-technischer ubungsraum mit rlt 1
+53621,biologischer übungsraum mit rlt 1,NUF_5,biologischer ubungsraum mit rlt 1,biologischer übungsraum mit rlt 1 | biologischer ubungsraum mit rlt 1
+53622,chemischer übungsraum mit rlt 1,NUF_5,chemischer ubungsraum mit rlt 1,chemischer übungsraum mit rlt 1 | chemischer ubungsraum mit rlt 1
+53631,zahnmedizinischer übungsraum mit rlt 1,NUF_5,zahnmedizinischer ubungsraum mit rlt 1,zahnmedizinischer übungsraum mit rlt 1 | zahnmedizinischer ubungsraum mit rlt 1
+53632,anatomischer übungsraum mit rlt 1,NUF_5,anatomischer ubungsraum mit rlt 1,anatomischer übungsraum mit rlt 1 | anatomischer ubungsraum mit rlt 1
+537,räume für ausbildung (raumlufttechnik enthalten),NUF_5,raume fur ausbildung (raumlufttechnik enthalten),räume für ausbildung (raumlufttechnik enthalten) | raume fur ausbildung (raumlufttechnik enthalten)
+53711,werkstatt bau/ steine/ erden,NUF_5,werkstatt bau/ steine/ erden,werkstatt bau/ steine/ erden | werkstatt bau/ steine/ erden
+53712,werkstatt bau/ steine/ erden mit sonderabsaugung,NUF_5,werkstatt bau/ steine/ erden mit sonderabsaugung,werkstatt bau/ steine/ erden mit sonderabsaugung | werkstatt bau/ steine/ erden mit sonderabsaugung
+53721,drucktechnikwerkstatt mit sonderabsaugung,NUF_5,drucktechnikwerkstatt mit sonderabsaugung,drucktechnikwerkstatt mit sonderabsaugung | drucktechnikwerkstatt mit sonderabsaugung
+53731,textil-/ lederwerkstatt,NUF_5,textil-/ lederwerkstatt,textil-/ lederwerkstatt | textil-/ lederwerkstatt
+53741,werkstatt holz/ kunststoff,NUF_5,werkstatt holz/ kunststoff,werkstatt holz/ kunststoff | werkstatt holz/ kunststoff
+53751,werkstatt metall mit sonderabsaugung,NUF_5,werkstatt metall mit sonderabsaugung,werkstatt metall mit sonderabsaugung | werkstatt metall mit sonderabsaugung
+53752,werkstatt feinmechanik mit sonderabsaugung,NUF_5,werkstatt feinmechanik mit sonderabsaugung,werkstatt feinmechanik mit sonderabsaugung | werkstatt feinmechanik mit sonderabsaugung
+53761,werkstatt elektro,NUF_5,werkstatt elektro,werkstatt elektro | werkstatt elektro
+541,bibliotheksräume,NUF_5,bibliotheksraume,bibliotheksräume | bibliotheksraume
+54111,bibliotheksraum,NUF_5,bibliotheksraum,bibliotheksraum | bibliotheksraum
+54112,bibliotheksraum mit rlt 1,NUF_5,bibliotheksraum mit rlt 1,bibliotheksraum mit rlt 1 | bibliotheksraum mit rlt 1
+54121,leseraum mit rlt 1,NUF_5,leseraum mit rlt 1,leseraum mit rlt 1 | leseraum mit rlt 1
+54131,katalograum/ -fläche mit rlt 1,NUF_5,katalograum/ -flache mit rlt 1,katalograum/ -fläche mit rlt 1 | katalograum/ -flache mit rlt 1
+54141,mediothekraum mit rlt 1,NUF_5,mediothekraum mit rlt 1,mediothekraum mit rlt 1 | mediothekraum mit rlt 1
+54151,freihandstellfläche mit rlt 1,NUF_5,freihandstellflache mit rlt 1,freihandstellfläche mit rlt 1 | freihandstellflache mit rlt 1
+551,sporthallen/ mehrzweckhallen,NUF_5,sporthallen/ mehrzweckhallen,sporthallen/ mehrzweckhallen | sporthallen/ mehrzweckhallen
+55111,halle für turnen und spiele,NUF_5,halle fur turnen und spiele,halle für turnen und spiele | halle fur turnen und spiele
+55121,mehrzweckhalle mit rlt 2,NUF_5,mehrzweckhalle mit rlt 2,mehrzweckhalle mit rlt 2 | mehrzweckhalle mit rlt 2
+552,sportübungsräume,NUF_5,sportubungsraume,sportübungsräume | sportubungsraume
+55211,sportübungsraum,NUF_5,sportubungsraum,sportübungsraum | sportubungsraum
+55212,sportübungsraum mit rlt 1,NUF_5,sportubungsraum mit rlt 1,sportübungsraum mit rlt 1 | sportubungsraum mit rlt 1
+55213,raum für integrationstraining mit rlt 1,NUF_5,raum fur integrationstraining mit rlt 1,raum für integrationstraining mit rlt 1 | raum fur integrationstraining mit rlt 1
+55214,raum für abwehr- und zugriffstraining mit rlt 1,NUF_5,raum fur abwehr- und zugriffstraining mit rlt 1,raum für abwehr- und zugriffstraining mit rlt 1 | raum fur abwehr- und zugriffstraining mit rlt 1
+55221,tanzraum mit rlt 1,NUF_5,tanzraum mit rlt 1,tanzraum mit rlt 1 | tanzraum mit rlt 1
+553,schießsporträume,NUF_5,schiesssportraume,schießsporträume | schiesssportraume
+55311,schießsportraum mit medienunterstützung und rlt 1,NUF_5,schiesssportraum mit medienunterstutzung und rlt 1,schießsportraum mit medienunterstützung und rlt 1 | schiesssportraum mit medienunterstutzung und rlt 1
+554,sondersporthallen,NUF_5,sondersporthallen,sondersporthallen | sondersporthallen
+55411,schwimmhalle mit rlt 1,NUF_5,schwimmhalle mit rlt 1,schwimmhalle mit rlt 1 | schwimmhalle mit rlt 1
+55412,eissporthalle mit rlt 2,NUF_5,eissporthalle mit rlt 2,eissporthalle mit rlt 2 | eissporthalle mit rlt 2
+55413,radsporthalle mit rlt 1,NUF_5,radsporthalle mit rlt 1,radsporthalle mit rlt 1 | radsporthalle mit rlt 1
+55414,reitsporthalle,NUF_5,reitsporthalle,reitsporthalle | reitsporthalle
+55415,kegelbahn mit rlt 1,NUF_5,kegelbahn mit rlt 1,kegelbahn mit rlt 1 | kegelbahn mit rlt 1
+55416,sondersporthalle,NUF_5,sondersporthalle,sondersporthalle | sondersporthalle
+561,zuschauerräume,NUF_5,zuschauerraume,zuschauerräume | zuschauerraume
+56111,zuschauerraum in sport- und mehrzweckhallen,NUF_5,zuschauerraum in sport- und mehrzweckhallen,zuschauerraum in sport- und mehrzweckhallen | zuschauerraum in sport- und mehrzweckhallen
+56121,"zuschauerraum in kino, theater- und konzertsälen mit rlt 2",NUF_5,"zuschauerraum in kino, theater- und konzertsalen mit rlt 2","zuschauerraum in kino, theater- und konzertsälen mit rlt 2 | zuschauerraum in kino, theater- und konzertsalen mit rlt 2"
+571,"haupt-, seiten-, hinter-, probebühnen, schnürböden",NUF_5,"haupt-, seiten-, hinter-, probebuhnen, schnurboden","haupt-, seiten-, hinter-, probebühnen, schnürböden | haupt-, seiten-, hinter-, probebuhnen, schnurboden"
+57111,bühnenraum sporthalle,NUF_5,buhnenraum sporthalle,bühnenraum sporthalle | buhnenraum sporthalle
+57112,bühnenraum theater mit rlt 2,NUF_5,buhnenraum theater mit rlt 2,bühnenraum theater mit rlt 2 | buhnenraum theater mit rlt 2
+57121,probebühne,NUF_5,probebuhne,probebühne | probebuhne
+572,orchesterräume,NUF_5,orchesterraume,orchesterräume | orchesterraume
+57211,orchesterraum mit rlt 3,NUF_5,orchesterraum mit rlt 3,orchesterraum mit rlt 3 | orchesterraum mit rlt 3
+57212,orchesterprobenraum mit rlt 3,NUF_5,orchesterprobenraum mit rlt 3,orchesterprobenraum mit rlt 3 | orchesterprobenraum mit rlt 3
+573,"film-, fernseh-, rundfunkstudios",NUF_5,"film-, fernseh-, rundfunkstudios","film-, fernseh-, rundfunkstudios | film-, fernseh-, rundfunkstudios"
+57311,tonstudioraum mit rlt 3,NUF_5,tonstudioraum mit rlt 3,tonstudioraum mit rlt 3 | tonstudioraum mit rlt 3
+57321,bildstudioraum mit rlt 3,NUF_5,bildstudioraum mit rlt 3,bildstudioraum mit rlt 3 | bildstudioraum mit rlt 3
+581,"ausstellungsräume für museen, galerien, kunstausstellungen",NUF_5,"ausstellungsraume fur museen, galerien, kunstausstellungen","ausstellungsräume für museen, galerien, kunstausstellungen | ausstellungsraume fur museen, galerien, kunstausstellungen"
+58111,museumsraum,NUF_5,museumsraum,museumsraum | museumsraum
+58112,museumsraum mit rlt 1,NUF_5,museumsraum mit rlt 1,museumsraum mit rlt 1 | museumsraum mit rlt 1
+58113,museumgroßraum mit rlt 3,NUF_5,museumgrossraum mit rlt 3,museumgroßraum mit rlt 3 | museumgrossraum mit rlt 3
+58114,museumsraum für wechselausstellung mit rlt 3,NUF_5,museumsraum fur wechselausstellung mit rlt 3,museumsraum für wechselausstellung mit rlt 3 | museumsraum fur wechselausstellung mit rlt 3
+58115,museumsraum für lichtempfindliche exponate mit rlt 3,NUF_5,museumsraum fur lichtempfindliche exponate mit rlt 3,museumsraum für lichtempfindliche exponate mit rlt 3 | museumsraum fur lichtempfindliche exponate mit rlt 3
+58116,museumsraum mit tageslichtdecke und rlt 3,NUF_5,museumsraum mit tageslichtdecke und rlt 3,museumsraum mit tageslichtdecke und rlt 3 | museumsraum mit tageslichtdecke und rlt 3
+58117,museumsraum mit seitenlicht und rlt 3,NUF_5,museumsraum mit seitenlicht und rlt 3,museumsraum mit seitenlicht und rlt 3 | museumsraum mit seitenlicht und rlt 3
+58121,künstleratelier,NUF_5,kunstleratelier,künstleratelier | kunstleratelier
+582,lehr- und schausammlungsräume,NUF_5,lehr- und schausammlungsraume,lehr- und schausammlungsräume | lehr- und schausammlungsraume
+58211,lehr- und schausammlungsraum,NUF_5,lehr- und schausammlungsraum,lehr- und schausammlungsraum | lehr- und schausammlungsraum
+58221,austellungsraum/ -fläche,NUF_5,austellungsraum/ -flache,austellungsraum/ -fläche | austellungsraum/ -flache
+591,kirchen,NUF_5,kirchen,kirchen | kirchen
+59111,gottesdienstraum,NUF_5,gottesdienstraum,gottesdienstraum | gottesdienstraum
+59112,andachtsraum,NUF_5,andachtsraum,andachtsraum | andachtsraum
+59113,aussegnungsraum,NUF_5,aussegnungsraum,aussegnungsraum | aussegnungsraum
+59114,aufbahrungsraum,NUF_5,aufbahrungsraum,aufbahrungsraum | aufbahrungsraum
+59115,sakristei,NUF_5,sakristei,sakristei | sakristei
+59116,kreuzgang,NUF_5,kreuzgang,kreuzgang | kreuzgang
+611,räume für allgemeine untersuchung und behandlung,NUF_6,raume fur allgemeine untersuchung und behandlung,räume für allgemeine untersuchung und behandlung | raume fur allgemeine untersuchung und behandlung
+61111,u + b raum/arztsprechzimmer,NUF_6,u + b raum/arztsprechzimmer,u + b raum/arztsprechzimmer | u + b raum/arztsprechzimmer
+61112,u + b raum/arztsprechzimmer mit waschtisch,NUF_6,u + b raum/arztsprechzimmer mit waschtisch,u + b raum/arztsprechzimmer mit waschtisch | u + b raum/arztsprechzimmer mit waschtisch
+61113,u + b raum mit waschtisch und medizinischer ausstattung,NUF_6,u + b raum mit waschtisch und medizinischer ausstattung,u + b raum mit waschtisch und medizinischer ausstattung | u + b raum mit waschtisch und medizinischer ausstattung
+61114,u + b raum mit patienten wc und medizinischer ausstattung und rlt 1,NUF_6,u + b raum mit patienten wc und medizinischer ausstattung und rlt 1,u + b raum mit patienten wc und medizinischer ausstattung und rlt 1 | u + b raum mit patienten wc und medizinischer ausstattung und rlt 1
+61115,u + b vorbereitungsungsraum mit rlt 1,NUF_6,u + b vorbereitungsungsraum mit rlt 1,u + b vorbereitungsungsraum mit rlt 1 | u + b vorbereitungsungsraum mit rlt 1
+61118,u + b raum mit waschtisch und rlt 1,NUF_6,u + b raum mit waschtisch und rlt 1,u + b raum mit waschtisch und rlt 1 | u + b raum mit waschtisch und rlt 1
+61121,"ambulante operationen, kategorie e; raumklasse ii",NUF_6,"ambulante operationen, kategorie e; raumklasse ii","ambulante operationen, kategorie e; raumklasse ii | ambulante operationen, kategorie e; raumklasse ii"
+61122,kleine operative/ invasive eingriffe,NUF_6,kleine operative/ invasive eingriffe,kleine operative/ invasive eingriffe | kleine operative/ invasive eingriffe
+612,"räume für medizinische erstversorgung und erste-hilfe, wundversorgung",NUF_6,"raume fur medizinische erstversorgung und erste-hilfe, wundversorgung","räume für medizinische erstversorgung und erste-hilfe, wundversorgung | raume fur medizinische erstversorgung und erste-hilfe, wundversorgung"
+61211,erste-hilfe-raum,NUF_6,erste-hilfe-raum,erste-hilfe-raum | erste-hilfe-raum
+61212,erste-hilfe-raum mit medizinischer ausstattung im krankenhaus,NUF_6,erste-hilfe-raum mit medizinischer ausstattung im krankenhaus,erste-hilfe-raum mit medizinischer ausstattung im krankenhaus | erste-hilfe-raum mit medizinischer ausstattung im krankenhaus
+61221,gipsraum mit rlt 1,NUF_6,gipsraum mit rlt 1,gipsraum mit rlt 1 | gipsraum mit rlt 1
+613,obduktions- und verstorbenenräume,NUF_6,obduktions- und verstorbenenraume,obduktions- und verstorbenenräume | obduktions- und verstorbenenraume
+61311,aufbahrungsraum mit rlt 2,NUF_6,aufbahrungsraum mit rlt 2,aufbahrungsraum mit rlt 2 | aufbahrungsraum mit rlt 2
+614,räume für beratung (medizinische vor- und fürsorge) und ausbildung,NUF_6,raume fur beratung (medizinische vor- und fursorge) und ausbildung,räume für beratung (medizinische vor- und fürsorge) und ausbildung | raume fur beratung (medizinische vor- und fursorge) und ausbildung
+61411,demonstrationsraum mit einfacher ausstattung und rlt 1,NUF_6,demonstrationsraum mit einfacher ausstattung und rlt 1,demonstrationsraum mit einfacher ausstattung und rlt 1 | demonstrationsraum mit einfacher ausstattung und rlt 1
+61412,projektions-/demonstrationsraum mit rlt 2,NUF_6,projektions-/demonstrationsraum mit rlt 2,projektions-/demonstrationsraum mit rlt 2 | projektions-/demonstrationsraum mit rlt 2
+61413,klinischer konferenzraum pacs mit rlt 2,NUF_6,klinischer konferenzraum pacs mit rlt 2,klinischer konferenzraum pacs mit rlt 2 | klinischer konferenzraum pacs mit rlt 2
+615,räume für tiermedizin,NUF_6,raume fur tiermedizin,räume für tiermedizin | raume fur tiermedizin
+61511,tiermedizinischer u + b raum mit einfacher medizinischer ausstattung und rlt 1,NUF_6,tiermedizinischer u + b raum mit einfacher medizinischer ausstattung und rlt 1,tiermedizinischer u + b raum mit einfacher medizinischer ausstattung und rlt 1 | tiermedizinischer u + b raum mit einfacher medizinischer ausstattung und rlt 1
+61512,tiermedizinischer u + b raum mit besonderer ausstattung und rlt 2,NUF_6,tiermedizinischer u + b raum mit besonderer ausstattung und rlt 2,tiermedizinischer u + b raum mit besonderer ausstattung und rlt 2 | tiermedizinischer u + b raum mit besonderer ausstattung und rlt 2
+621,räume für neuro- und sinnesphysiologie,NUF_6,raume fur neuro- und sinnesphysiologie,räume für neuro- und sinnesphysiologie | raume fur neuro- und sinnesphysiologie
+62111,u + b raum neurophysiologie mit rlt 1,NUF_6,u + b raum neurophysiologie mit rlt 1,u + b raum neurophysiologie mit rlt 1 | u + b raum neurophysiologie mit rlt 1
+62112,u + b raum neurophysiologie mit rlt 2,NUF_6,u + b raum neurophysiologie mit rlt 2,u + b raum neurophysiologie mit rlt 2 | u + b raum neurophysiologie mit rlt 2
+62121,sinnesphysiologischer u + b-raum mit rlt 2,NUF_6,sinnesphysiologischer u + b-raum mit rlt 2,sinnesphysiologischer u + b-raum mit rlt 2 | sinnesphysiologischer u + b-raum mit rlt 2
+62122,audiometrieraum mit erschütterungsschutz und rlt 2,NUF_6,audiometrieraum mit erschutterungsschutz und rlt 2,audiometrieraum mit erschütterungsschutz und rlt 2 | audiometrieraum mit erschutterungsschutz und rlt 2
+62131,augen-u + b-raum mit rlt 2,NUF_6,augen-u + b-raum mit rlt 2,augen-u + b-raum mit rlt 2 | augen-u + b-raum mit rlt 2
+62132,"augen- u+b-raum mit laser, reflexionsfrei und rlt 2",NUF_6,"augen- u+b-raum mit laser, reflexionsfrei und rlt 2","augen- u+b-raum mit laser, reflexionsfrei und rlt 2 | augen- u+b-raum mit laser, reflexionsfrei und rlt 2"
+62141,u + b raum atemphysiologie,NUF_6,u + b raum atemphysiologie,u + b raum atemphysiologie | u + b raum atemphysiologie
+62142,u + b raum atemphysiologie mit rlt 2,NUF_6,u + b raum atemphysiologie mit rlt 2,u + b raum atemphysiologie mit rlt 2 | u + b raum atemphysiologie mit rlt 2
+622,räume für herz-/ kreislaufdiagnostik,NUF_6,raume fur herz-/ kreislaufdiagnostik,räume für herz-/ kreislaufdiagnostik | raume fur herz-/ kreislaufdiagnostik
+62211,u + b raum herz/kreislaufdiagnostik mit rlt 1,NUF_6,u + b raum herz/kreislaufdiagnostik mit rlt 1,u + b raum herz/kreislaufdiagnostik mit rlt 1 | u + b raum herz/kreislaufdiagnostik mit rlt 1
+62212,u + b raum herz/kreislaufdiagnostik mit rlt 2,NUF_6,u + b raum herz/kreislaufdiagnostik mit rlt 2,u + b raum herz/kreislaufdiagnostik mit rlt 2 | u + b raum herz/kreislaufdiagnostik mit rlt 2
+62213,u + b raum herz/ kreislaufdiagnostik mit rlt 3,NUF_6,u + b raum herz/ kreislaufdiagnostik mit rlt 3,u + b raum herz/ kreislaufdiagnostik mit rlt 3 | u + b raum herz/ kreislaufdiagnostik mit rlt 3
+623,räume für zahnmedizinische behandlung,NUF_6,raume fur zahnmedizinische behandlung,räume für zahnmedizinische behandlung | raume fur zahnmedizinische behandlung
+62311,zahnmedizinischer u + b-raum,NUF_6,zahnmedizinischer u + b-raum,zahnmedizinischer u + b-raum | zahnmedizinischer u + b-raum
+624,räume für endoskopien,NUF_6,raume fur endoskopien,räume für endoskopien | raume fur endoskopien
+62411,waschraum endoskopie mit rlt 1,NUF_6,waschraum endoskopie mit rlt 1,waschraum endoskopie mit rlt 1 | waschraum endoskopie mit rlt 1
+62412,endoskopieraum mit rlt 3,NUF_6,endoskopieraum mit rlt 3,endoskopieraum mit rlt 3 | endoskopieraum mit rlt 3
+62413,endoskopieraum mit rlt 3 und strahlenschutz,NUF_6,endoskopieraum mit rlt 3 und strahlenschutz,endoskopieraum mit rlt 3 und strahlenschutz | endoskopieraum mit rlt 3 und strahlenschutz
+625,geburtshilferäume,NUF_6,geburtshilferaume,geburtshilferäume | geburtshilferaume
+62511,geburtshilfe-/ vorbereitungs- und ergänzungsraum,NUF_6,geburtshilfe-/ vorbereitungs- und erganzungsraum,geburtshilfe-/ vorbereitungs- und ergänzungsraum | geburtshilfe-/ vorbereitungs- und erganzungsraum
+62512,geburtshilferaum mit rlt 1,NUF_6,geburtshilferaum mit rlt 1,geburtshilferaum mit rlt 1 | geburtshilferaum mit rlt 1
+62513,geburtshilferaum m. sonderausstattung und rlt 1,NUF_6,geburtshilferaum m. sonderausstattung und rlt 1,geburtshilferaum m. sonderausstattung und rlt 1 | geburtshilferaum m. sonderausstattung und rlt 1
+631,räume für operationen,NUF_6,raume fur operationen,räume für operationen | raume fur operationen
+63111,operationsraum,NUF_6,operationsraum,operationsraum | operationsraum
+63112,operationsraum mit strahlenschutz,NUF_6,operationsraum mit strahlenschutz,operationsraum mit strahlenschutz | operationsraum mit strahlenschutz
+63113,operationsraum mit sonderausstattung,NUF_6,operationsraum mit sonderausstattung,operationsraum mit sonderausstattung | operationsraum mit sonderausstattung
+63114,operationsraum mit sonderausstattung und strahlenschutz,NUF_6,operationsraum mit sonderausstattung und strahlenschutz,operationsraum mit sonderausstattung und strahlenschutz | operationsraum mit sonderausstattung und strahlenschutz
+63115,eingriffsraum mit besonderen hygienischen und rlt-anforderungen,NUF_6,eingriffsraum mit besonderen hygienischen und rlt-anforderungen,eingriffsraum mit besonderen hygienischen und rlt-anforderungen | eingriffsraum mit besonderen hygienischen und rlt-anforderungen
+63116,operationsraum mit strahlen-/ laserschutz,NUF_6,operationsraum mit strahlen-/ laserschutz,operationsraum mit strahlen-/ laserschutz | operationsraum mit strahlen-/ laserschutz
+63117,operationsraum für kinder,NUF_6,operationsraum fur kinder,operationsraum für kinder | operationsraum fur kinder
+63121,eingriffsraum,NUF_6,eingriffsraum,eingriffsraum | eingriffsraum
+63122,eingriffraum mit lasereinsatz (z.b. augenklinik: lasik-laser),NUF_6,eingriffraum mit lasereinsatz (z.b. augenklinik: lasik-laser),eingriffraum mit lasereinsatz (z.b. augenklinik: lasik-laser) | eingriffraum mit lasereinsatz (z.b. augenklinik: lasik-laser)
+63123,"ambulante operationen, kategorie op",NUF_6,"ambulante operationen, kategorie op","ambulante operationen, kategorie op | ambulante operationen, kategorie op"
+63124,operationsraum mit reduzierten rlt-anforderungen,NUF_6,operationsraum mit reduzierten rlt-anforderungen,operationsraum mit reduzierten rlt-anforderungen | operationsraum mit reduzierten rlt-anforderungen
+63125,"operationsraum mit strahlen-/ laserschutz, reduzierten rlt-anforderungen",NUF_6,"operationsraum mit strahlen-/ laserschutz, reduzierten rlt-anforderungen","operationsraum mit strahlen-/ laserschutz, reduzierten rlt-anforderungen | operationsraum mit strahlen-/ laserschutz, reduzierten rlt-anforderungen"
+63131,hybrid op,NUF_6,hybrid op,hybrid op | hybrid op
+63132,hybrid-operationsraum angiographie,NUF_6,hybrid-operationsraum angiographie,hybrid-operationsraum angiographie | hybrid-operationsraum angiographie
+63133,hybrid-operationsraum intraoperativer mrt,NUF_6,hybrid-operationsraum intraoperativer mrt,hybrid-operationsraum intraoperativer mrt | hybrid-operationsraum intraoperativer mrt
+63134,hybrid-operationsraum ct,NUF_6,hybrid-operationsraum ct,hybrid-operationsraum ct | hybrid-operationsraum ct
+632,op-ergänzungsräume; raumklassen i und ii,NUF_6,op-erganzungsraume; raumklassen i und ii,op-ergänzungsräume; raumklassen i und ii | op-erganzungsraume; raumklassen i und ii
+63211,richtraum raumklasse ib,NUF_6,richtraum raumklasse ib,richtraum raumklasse ib | richtraum raumklasse ib
+63212,richtraum raumklasse ia,NUF_6,richtraum raumklasse ia,richtraum raumklasse ia | richtraum raumklasse ia
+63213,geräteraum raumklasse ib,NUF_6,gerateraum raumklasse ib,geräteraum raumklasse ib | gerateraum raumklasse ib
+63214,geräteraum raumklasse ia,NUF_6,gerateraum raumklasse ia,geräteraum raumklasse ia | gerateraum raumklasse ia
+63221,"waschraum op, raumklasse ii",NUF_6,"waschraum op, raumklasse ii","waschraum op, raumklasse ii | waschraum op, raumklasse ii"
+63222,"patientenvorbereitungsraum op, raumklasse ii",NUF_6,"patientenvorbereitungsraum op, raumklasse ii","patientenvorbereitungsraum op, raumklasse ii | patientenvorbereitungsraum op, raumklasse ii"
+63223,"einleitungsraum, raumklasse ii",NUF_6,"einleitungsraum, raumklasse ii","einleitungsraum, raumklasse ii | einleitungsraum, raumklasse ii"
+63224,"einleitungs-/ausleitungsraum, raumklasse ii",NUF_6,"einleitungs-/ausleitungsraum, raumklasse ii","einleitungs-/ausleitungsraum, raumklasse ii | einleitungs-/ausleitungsraum, raumklasse ii"
+63225,"ausleitungs-/entsorgungsraum, raumklasse ii",NUF_6,"ausleitungs-/entsorgungsraum, raumklasse ii","ausleitungs-/entsorgungsraum, raumklasse ii | ausleitungs-/entsorgungsraum, raumklasse ii"
+63226,"gipsraum op, raumklasse ii",NUF_6,"gipsraum op, raumklasse ii","gipsraum op, raumklasse ii | gipsraum op, raumklasse ii"
+63227,"medizinische versorgung op, raumklasse ii",NUF_6,"medizinische versorgung op, raumklasse ii","medizinische versorgung op, raumklasse ii | medizinische versorgung op, raumklasse ii"
+63228,"medizinische entsorgung op, raumklasse ii",NUF_6,"medizinische entsorgung op, raumklasse ii","medizinische entsorgung op, raumklasse ii | medizinische entsorgung op, raumklasse ii"
+63229,"umbettschleuse, raumklasse ii",NUF_6,"umbettschleuse, raumklasse ii","umbettschleuse, raumklasse ii | umbettschleuse, raumklasse ii"
+633,tiermedizinische operationsräume,NUF_6,tiermedizinische operationsraume,tiermedizinische operationsräume | tiermedizinische operationsraume
+63311,tierendoskopieraum mit rlt 1,NUF_6,tierendoskopieraum mit rlt 1,tierendoskopieraum mit rlt 1 | tierendoskopieraum mit rlt 1
+63312,tieroprationsraum mit rlt 3,NUF_6,tieroprationsraum mit rlt 3,tieroprationsraum mit rlt 3 | tieroprationsraum mit rlt 3
+63313,tieroperationsraum mit strahlenschutz und rlt 3,NUF_6,tieroperationsraum mit strahlenschutz und rlt 3,tieroperationsraum mit strahlenschutz und rlt 3 | tieroperationsraum mit strahlenschutz und rlt 3
+641,räume für allgemeine und spezielle röntgendiagnostik,NUF_6,raume fur allgemeine und spezielle rontgendiagnostik,räume für allgemeine und spezielle röntgendiagnostik | raume fur allgemeine und spezielle rontgendiagnostik
+64111,durchleuchtunggsraum mit rlt 2,NUF_6,durchleuchtunggsraum mit rlt 2,durchleuchtunggsraum mit rlt 2 | durchleuchtunggsraum mit rlt 2
+64112,röntgenaufnahmeraum mit rlt 2,NUF_6,rontgenaufnahmeraum mit rlt 2,röntgenaufnahmeraum mit rlt 2 | rontgenaufnahmeraum mit rlt 2
+64113,röntgenuntersuchungsraum experimentell mit rlt 2,NUF_6,rontgenuntersuchungsraum experimentell mit rlt 2,röntgenuntersuchungsraum experimentell mit rlt 2 | rontgenuntersuchungsraum experimentell mit rlt 2
+64114,röntgenvorbereitungsraum mit rlt 2,NUF_6,rontgenvorbereitungsraum mit rlt 2,röntgenvorbereitungsraum mit rlt 2 | rontgenvorbereitungsraum mit rlt 2
+64121,zahnmedizinischer röntgenuntersuchungsraum mit rlt 2,NUF_6,zahnmedizinischer rontgenuntersuchungsraum mit rlt 2,zahnmedizinischer röntgenuntersuchungsraum mit rlt 2 | zahnmedizinischer rontgenuntersuchungsraum mit rlt 2
+642,räume für nuklearmedizinische diagnostik,NUF_6,raume fur nuklearmedizinische diagnostik,räume für nuklearmedizinische diagnostik | raume fur nuklearmedizinische diagnostik
+64211,abklingraum nuklearmedizin mit rlt 1,NUF_6,abklingraum nuklearmedizin mit rlt 1,abklingraum nuklearmedizin mit rlt 1 | abklingraum nuklearmedizin mit rlt 1
+64212,vorbereitungsraum nuklearmedizinische diagnostik mit rlt 1,NUF_6,vorbereitungsraum nuklearmedizinische diagnostik mit rlt 1,vorbereitungsraum nuklearmedizinische diagnostik mit rlt 1 | vorbereitungsraum nuklearmedizinische diagnostik mit rlt 1
+64213,patientenvorbereitung (nukl. med.),NUF_6,patientenvorbereitung (nukl. med.),patientenvorbereitung (nukl. med.) | patientenvorbereitung (nukl. med.)
+64216,applikation - diagnostik (u/b),NUF_6,applikation - diagnostik (u/b),applikation - diagnostik (u/b) | applikation - diagnostik (u/b)
+64217,untersuchung- und behandlungsraum,NUF_6,untersuchung- und behandlungsraum,untersuchung- und behandlungsraum | untersuchung- und behandlungsraum
+64221,meßraum mit einkanal-meßplatz und rlt 2,NUF_6,messraum mit einkanal-messplatz und rlt 2,meßraum mit einkanal-meßplatz und rlt 2 | messraum mit einkanal-messplatz und rlt 2
+64222,meßraum mit (gamma) kamera und rlt 2,NUF_6,messraum mit (gamma) kamera und rlt 2,meßraum mit (gamma) kamera und rlt 2 | messraum mit (gamma) kamera und rlt 2
+64223,meßraum für positronen-emissions-tomographie (pet) mit rlt 3,NUF_6,messraum fur positronen-emissions-tomographie (pet) mit rlt 3,meßraum für positronen-emissions-tomographie (pet) mit rlt 3 | messraum fur positronen-emissions-tomographie (pet) mit rlt 3
+643,tomographieräume,NUF_6,tomographieraume,tomographieräume | tomographieraume
+64311,computertomographieraum (ct) mit rlt 2,NUF_6,computertomographieraum (ct) mit rlt 2,computertomographieraum (ct) mit rlt 2 | computertomographieraum (ct) mit rlt 2
+64312,spezialaufnahmenraum mit rlt 2,NUF_6,spezialaufnahmenraum mit rlt 2,spezialaufnahmenraum mit rlt 2 | spezialaufnahmenraum mit rlt 2
+64313,schichtaufnahmenraum mit rlt 2,NUF_6,schichtaufnahmenraum mit rlt 2,schichtaufnahmenraum mit rlt 2 | schichtaufnahmenraum mit rlt 2
+64314,angiographieraum mit rlt 2,NUF_6,angiographieraum mit rlt 2,angiographieraum mit rlt 2 | angiographieraum mit rlt 2
+64315,magnetresonanz-tomographieraum (nmr) mit rlt 3,NUF_6,magnetresonanz-tomographieraum (nmr) mit rlt 3,magnetresonanz-tomographieraum (nmr) mit rlt 3 | magnetresonanz-tomographieraum (nmr) mit rlt 3
+64316,pet-ct,NUF_6,pet-ct,pet-ct | pet-ct
+64317,pet-mrt,NUF_6,pet-mrt,pet-mrt | pet-mrt
+644,räume für ultraschall-/hochfrequenzdiagnostik,NUF_6,raume fur ultraschall-/hochfrequenzdiagnostik,räume für ultraschall-/hochfrequenzdiagnostik | raume fur ultraschall-/hochfrequenzdiagnostik
+64411,ultraschalldiagnostikraum mit rlt 1,NUF_6,ultraschalldiagnostikraum mit rlt 1,ultraschalldiagnostikraum mit rlt 1 | ultraschalldiagnostikraum mit rlt 1
+64412,ultraschalldiagnostikraum mit rlt 2,NUF_6,ultraschalldiagnostikraum mit rlt 2,ultraschalldiagnostikraum mit rlt 2 | ultraschalldiagnostikraum mit rlt 2
+645,nuklearmedizinische diagnostik für tiermedizin,NUF_6,nuklearmedizinische diagnostik fur tiermedizin,nuklearmedizinische diagnostik für tiermedizin | nuklearmedizinische diagnostik fur tiermedizin
+64511,strahlendiagnostikraum tiermedizin mit rlt 1,NUF_6,strahlendiagnostikraum tiermedizin mit rlt 1,strahlendiagnostikraum tiermedizin mit rlt 1 | strahlendiagnostikraum tiermedizin mit rlt 1
+64512,nuklearmedizinischer meßraum für tiere mit rlt 1,NUF_6,nuklearmedizinischer messraum fur tiere mit rlt 1,nuklearmedizinischer meßraum für tiere mit rlt 1 | nuklearmedizinischer messraum fur tiere mit rlt 1
+646,räume für nuklearmedizin: vorbereitung/ nachbereitung radionuklide,NUF_6,raume fur nuklearmedizin: vorbereitung/ nachbereitung radionuklide,räume für nuklearmedizin: vorbereitung/ nachbereitung radionuklide | raume fur nuklearmedizin: vorbereitung/ nachbereitung radionuklide
+64611,radionuklidlabor,NUF_6,radionuklidlabor,radionuklidlabor | radionuklidlabor
+64612,tresor mit schleuse (heißlabor),NUF_6,tresor mit schleuse (heisslabor),tresor mit schleuse (heißlabor) | tresor mit schleuse (heisslabor)
+651,räume für nuklearmedizinische therapie,NUF_6,raume fur nuklearmedizinische therapie,räume für nuklearmedizinische therapie | raume fur nuklearmedizinische therapie
+65111,oberflächenbestrahlung mit rlt 3,NUF_6,oberflachenbestrahlung mit rlt 3,oberflächenbestrahlung mit rlt 3 | oberflachenbestrahlung mit rlt 3
+65112,halbtiefen-/ tiefenbestrahlung mit rlt 3,NUF_6,halbtiefen-/ tiefenbestrahlung mit rlt 3,halbtiefen-/ tiefenbestrahlung mit rlt 3 | halbtiefen-/ tiefenbestrahlung mit rlt 3
+65113,linearbeschleuniger mit rlt 3,NUF_6,linearbeschleuniger mit rlt 3,linearbeschleuniger mit rlt 3 | linearbeschleuniger mit rlt 3
+65114,bestrahlungsplanung mit rlt 3,NUF_6,bestrahlungsplanung mit rlt 3,bestrahlungsplanung mit rlt 3 | bestrahlungsplanung mit rlt 3
+65115,bestrahlung mit offenen radioaktiven stoffen und rlt 2,NUF_6,bestrahlung mit offenen radioaktiven stoffen und rlt 2,bestrahlung mit offenen radioaktiven stoffen und rlt 2 | bestrahlung mit offenen radioaktiven stoffen und rlt 2
+65116,bestrahlung mit umschlossenen radioaktiven stoffen und rlt 2,NUF_6,bestrahlung mit umschlossenen radioaktiven stoffen und rlt 2,bestrahlung mit umschlossenen radioaktiven stoffen und rlt 2 | bestrahlung mit umschlossenen radioaktiven stoffen und rlt 2
+65121,bestrahlung mit offenen isotopen und rlt 2,NUF_6,bestrahlung mit offenen isotopen und rlt 2,bestrahlung mit offenen isotopen und rlt 2 | bestrahlung mit offenen isotopen und rlt 2
+65122,bestrahlung mit umschlossenen isotopen - vorbereitung und rlt 2,NUF_6,bestrahlung mit umschlossenen isotopen - vorbereitung und rlt 2,bestrahlung mit umschlossenen isotopen - vorbereitung und rlt 2 | bestrahlung mit umschlossenen isotopen - vorbereitung und rlt 2
+65123,bestrahlung mit umschlossenen isotopen - behandlung und rlt 2,NUF_6,bestrahlung mit umschlossenen isotopen - behandlung und rlt 2,bestrahlung mit umschlossenen isotopen - behandlung und rlt 2 | bestrahlung mit umschlossenen isotopen - behandlung und rlt 2
+661,räume für medizinische bäder,NUF_6,raume fur medizinische bader,räume für medizinische bäder | raume fur medizinische bader
+66111,medizinisches wannenbad mit rlt 1,NUF_6,medizinisches wannenbad mit rlt 1,medizinisches wannenbad mit rlt 1 | medizinisches wannenbad mit rlt 1
+66112,medizinisches teilbad mit rlt 1,NUF_6,medizinisches teilbad mit rlt 1,medizinisches teilbad mit rlt 1 | medizinisches teilbad mit rlt 1
+66113,unterwasserdruckstrahlmassage mit rlt 1,NUF_6,unterwasserdruckstrahlmassage mit rlt 1,unterwasserdruckstrahlmassage mit rlt 1 | unterwasserdruckstrahlmassage mit rlt 1
+66114,kneipp'sche anwendungen mit rlt 1,NUF_6,kneipp'sche anwendungen mit rlt 1,kneipp'sche anwendungen mit rlt 1 | kneipp'sche anwendungen mit rlt 1
+66115,bewegungswannenbad mit rlt 1,NUF_6,bewegungswannenbad mit rlt 1,bewegungswannenbad mit rlt 1 | bewegungswannenbad mit rlt 1
+66116,schwimmbecken naßtherapie mit rlt 1,NUF_6,schwimmbecken nasstherapie mit rlt 1,schwimmbecken naßtherapie mit rlt 1 | schwimmbecken nasstherapie mit rlt 1
+662,"räume für hydro-, bewegungstherapie sowie kuranwendungen",NUF_6,"raume fur hydro-, bewegungstherapie sowie kuranwendungen","räume für hydro-, bewegungstherapie sowie kuranwendungen | raume fur hydro-, bewegungstherapie sowie kuranwendungen"
+66211,schwitzbad mit rlt 1,NUF_6,schwitzbad mit rlt 1,schwitzbad mit rlt 1 | schwitzbad mit rlt 1
+66212,packungen - vorbereitung mit rlt 1,NUF_6,packungen - vorbereitung mit rlt 1,packungen - vorbereitung mit rlt 1 | packungen - vorbereitung mit rlt 1
+66213,packungen - behandlung mit rlt 1,NUF_6,packungen - behandlung mit rlt 1,packungen - behandlung mit rlt 1 | packungen - behandlung mit rlt 1
+66221,laufschule,NUF_6,laufschule,laufschule | laufschule
+66222,traktionsraum,NUF_6,traktionsraum,traktionsraum | traktionsraum
+663,elektrotherapieräume,NUF_6,elektrotherapieraume,elektrotherapieräume | elektrotherapieraume
+66311,bestrahlungen mit rlt 1,NUF_6,bestrahlungen mit rlt 1,bestrahlungen mit rlt 1 | bestrahlungen mit rlt 1
+66312,durchströmung mit rlt 1,NUF_6,durchstromung mit rlt 1,durchströmung mit rlt 1 | durchstromung mit rlt 1
+66313,vibrationsmassage mit rlt 1,NUF_6,vibrationsmassage mit rlt 1,vibrationsmassage mit rlt 1 | vibrationsmassage mit rlt 1
+66314,hyperthermietherapie mit rlt 3,NUF_6,hyperthermietherapie mit rlt 3,hyperthermietherapie mit rlt 3 | hyperthermietherapie mit rlt 3
+664,"räume für spiel-, gruppen-, arbeits- und ergotherapie, heilpädagogik",NUF_6,"raume fur spiel-, gruppen-, arbeits- und ergotherapie, heilpadagogik","räume für spiel-, gruppen-, arbeits- und ergotherapie, heilpädagogik | raume fur spiel-, gruppen-, arbeits- und ergotherapie, heilpadagogik"
+66411,rehabilitationsraum spieltherapie,NUF_6,rehabilitationsraum spieltherapie,rehabilitationsraum spieltherapie | rehabilitationsraum spieltherapie
+66412,snoezelraum mit rlt 2,NUF_6,snoezelraum mit rlt 2,snoezelraum mit rlt 2 | snoezelraum mit rlt 2
+66421,rehabilitationsraum arbeitstherapie,NUF_6,rehabilitationsraum arbeitstherapie,rehabilitationsraum arbeitstherapie | rehabilitationsraum arbeitstherapie
+665,räume für krankengymnastik und massage,NUF_6,raume fur krankengymnastik und massage,räume für krankengymnastik und massage | raume fur krankengymnastik und massage
+66511,gymnastikraum mit rlt 1,NUF_6,gymnastikraum mit rlt 1,gymnastikraum mit rlt 1 | gymnastikraum mit rlt 1
+66521,massageraum mit rlt 1,NUF_6,massageraum mit rlt 1,massageraum mit rlt 1 | massageraum mit rlt 1
+666,inhalations- und klimabehandlungsräume,NUF_6,inhalations- und klimabehandlungsraume,inhalations- und klimabehandlungsräume | inhalations- und klimabehandlungsraume
+66611,einzelinhalation,NUF_6,einzelinhalation,einzelinhalation | einzelinhalation
+66612,rauminhalation mit rlt 1,NUF_6,rauminhalation mit rlt 1,rauminhalation mit rlt 1 | rauminhalation mit rlt 1
+671,"normal-, langzeit- und leichtpflegeräume",NUF_6,"normal-, langzeit- und leichtpflegeraume","normal-, langzeit- und leichtpflegeräume | normal-, langzeit- und leichtpflegeraume"
+67111,normalpflegebettenraum,NUF_6,normalpflegebettenraum,normalpflegebettenraum | normalpflegebettenraum
+67112,tagesklinischer pflegeplatz,NUF_6,tagesklinischer pflegeplatz,tagesklinischer pflegeplatz | tagesklinischer pflegeplatz
+67113,kinderpflegebettenraum mit rlt 1,NUF_6,kinderpflegebettenraum mit rlt 1,kinderpflegebettenraum mit rlt 1 | kinderpflegebettenraum mit rlt 1
+67114,"pflegebettenraum, raumklasse ii",NUF_6,"pflegebettenraum, raumklasse ii","pflegebettenraum, raumklasse ii | pflegebettenraum, raumklasse ii"
+67121,neugeborenenpflegebettenraum mit rlt 2,NUF_6,neugeborenenpflegebettenraum mit rlt 2,neugeborenenpflegebettenraum mit rlt 2 | neugeborenenpflegebettenraum mit rlt 2
+67122,säuglingspflegebettenraum mit rlt 2,NUF_6,sauglingspflegebettenraum mit rlt 2,säuglingspflegebettenraum mit rlt 2 | sauglingspflegebettenraum mit rlt 2
+67131,langzeitpflegebettenraum mit rlt 2,NUF_6,langzeitpflegebettenraum mit rlt 2,langzeitpflegebettenraum mit rlt 2 | langzeitpflegebettenraum mit rlt 2
+67132,leichtpflegebettenraum mit rlt 1,NUF_6,leichtpflegebettenraum mit rlt 1,leichtpflegebettenraum mit rlt 1 | leichtpflegebettenraum mit rlt 1
+672,psychiatrische pflegebettenräume,NUF_6,psychiatrische pflegebettenraume,psychiatrische pflegebettenräume | psychiatrische pflegebettenraume
+67211,psychiatrischer pflegeraum mit rlt 1,NUF_6,psychiatrischer pflegeraum mit rlt 1,psychiatrischer pflegeraum mit rlt 1 | psychiatrischer pflegeraum mit rlt 1
+67212,psychiatrischer pflegeraum mit pflegestandard und rlt 1,NUF_6,psychiatrischer pflegeraum mit pflegestandard und rlt 1,psychiatrischer pflegeraum mit pflegestandard und rlt 1 | psychiatrischer pflegeraum mit pflegestandard und rlt 1
+67213,time-out-raum mit rlt 2,NUF_6,time-out-raum mit rlt 2,time-out-raum mit rlt 2 | time-out-raum mit rlt 2
+681,"postoperative überwachung, intensivmedizin",NUF_6,"postoperative uberwachung, intensivmedizin","postoperative überwachung, intensivmedizin | postoperative uberwachung, intensivmedizin"
+68111,bettenraum intensivüberwachung (imc) mit rlt 3,NUF_6,bettenraum intensivuberwachung (imc) mit rlt 3,bettenraum intensivüberwachung (imc) mit rlt 3 | bettenraum intensivuberwachung (imc) mit rlt 3
+68112,bettenraum intensivbehandlung (its) mit rlt 3,NUF_6,bettenraum intensivbehandlung (its) mit rlt 3,bettenraum intensivbehandlung (its) mit rlt 3 | bettenraum intensivbehandlung (its) mit rlt 3
+68121,aufwachraum (postoperativ) mit rlt 2,NUF_6,aufwachraum (postoperativ) mit rlt 2,aufwachraum (postoperativ) mit rlt 2 | aufwachraum (postoperativ) mit rlt 2
+68122,aufwachraum (postoperativ) mit rlt 3,NUF_6,aufwachraum (postoperativ) mit rlt 3,aufwachraum (postoperativ) mit rlt 3 | aufwachraum (postoperativ) mit rlt 3
+682,räume mit besonderer med. ausstattung,NUF_6,raume mit besonderer med. ausstattung,räume mit besonderer med. ausstattung | raume mit besonderer med. ausstattung
+68211,bettenraum für die behandlung brandverletzter/ verbrennungsstation mit rlt 3,NUF_6,bettenraum fur die behandlung brandverletzter/ verbrennungsstation mit rlt 3,bettenraum für die behandlung brandverletzter/ verbrennungsstation mit rlt 3 | bettenraum fur die behandlung brandverletzter/ verbrennungsstation mit rlt 3
+68212,bettenraum für reverse isolation mit rlt 3,NUF_6,bettenraum fur reverse isolation mit rlt 3,bettenraum für reverse isolation mit rlt 3 | bettenraum fur reverse isolation mit rlt 3
+68221,infektionspflegebettenraum mit rlt 1,NUF_6,infektionspflegebettenraum mit rlt 1,infektionspflegebettenraum mit rlt 1 | infektionspflegebettenraum mit rlt 1
+68231,"bettenraum für strahlenpatienten, offene isotope und rlt 1",NUF_6,"bettenraum fur strahlenpatienten, offene isotope und rlt 1","bettenraum für strahlenpatienten, offene isotope und rlt 1 | bettenraum fur strahlenpatienten, offene isotope und rlt 1"
+68232,"bettenraum für strahlenpatienten, umschlossene isotope und rlt 1",NUF_6,"bettenraum fur strahlenpatienten, umschlossene isotope und rlt 1","bettenraum für strahlenpatienten, umschlossene isotope und rlt 1 | bettenraum fur strahlenpatienten, umschlossene isotope und rlt 1"
+68241,bettenraum für die pflege frühgeborener mit rlt 3,NUF_6,bettenraum fur die pflege fruhgeborener mit rlt 3,bettenraum für die pflege frühgeborener mit rlt 3 | bettenraum fur die pflege fruhgeborener mit rlt 3
+68242,bettenraum für die pflege querschnittgelähmter,NUF_6,bettenraum fur die pflege querschnittgelahmter,bettenraum für die pflege querschnittgelähmter | bettenraum fur die pflege querschnittgelahmter
+683,dialyseräume,NUF_6,dialyseraume,dialyseräume | dialyseraume
+68311,behandlungsplatz dialyse mit rlt 2,NUF_6,behandlungsplatz dialyse mit rlt 2,behandlungsplatz dialyse mit rlt 2 | behandlungsplatz dialyse mit rlt 2
+68312,intensivbehandlung akutdialyse mit rlt 3,NUF_6,intensivbehandlung akutdialyse mit rlt 3,intensivbehandlung akutdialyse mit rlt 3 | intensivbehandlung akutdialyse mit rlt 3
+711,räume mit tech. anlagen zum betrieb nutzungsspezifischer geräte oder anlagen,NUF_7,raume mit tech. anlagen zum betrieb nutzungsspezifischer gerate oder anlagen,räume mit tech. anlagen zum betrieb nutzungsspezifischer geräte oder anlagen | raume mit tech. anlagen zum betrieb nutzungsspezifischer gerate oder anlagen
+71111,raum für technik mit rlt 2,NUF_7,raum fur technik mit rlt 2,raum für technik mit rlt 2 | raum fur technik mit rlt 2
+71112,hydrauliktechnikraum für geräte,NUF_7,hydrauliktechnikraum fur gerate,hydrauliktechnikraum für geräte | hydrauliktechnikraum fur gerate
+71113,hydrauliktechnikraum für maschinen und anlagen,NUF_7,hydrauliktechnikraum fur maschinen und anlagen,hydrauliktechnikraum für maschinen und anlagen | hydrauliktechnikraum fur maschinen und anlagen
+712,räume für edv-anlagen,NUF_7,raume fur edv-anlagen,räume für edv-anlagen | raume fur edv-anlagen
+71211,dv-kleinrechneranlagenraum mit rlt 1,NUF_7,dv-kleinrechneranlagenraum mit rlt 1,dv-kleinrechneranlagenraum mit rlt 1 | dv-kleinrechneranlagenraum mit rlt 1
+71212,raum für serveranlagen-bedienplatz mit rlt 1,NUF_7,raum fur serveranlagen-bedienplatz mit rlt 1,raum für serveranlagen-bedienplatz mit rlt 1 | raum fur serveranlagen-bedienplatz mit rlt 1
+71221,dv-großrechneranlagenraum mit rlt 2,NUF_7,dv-grossrechneranlagenraum mit rlt 2,dv-großrechneranlagenraum mit rlt 2 | dv-grossrechneranlagenraum mit rlt 2
+71222,serverraum mit sicherheitsanforderungen und rlt 2,NUF_7,serverraum mit sicherheitsanforderungen und rlt 2,serverraum mit sicherheitsanforderungen und rlt 2 | serverraum mit sicherheitsanforderungen und rlt 2
+713,schalträume für nutzungsspezifische technische anlagen,NUF_7,schaltraume fur nutzungsspezifische technische anlagen,schalträume für nutzungsspezifische technische anlagen | schaltraume fur nutzungsspezifische technische anlagen
+71311,schaltraum,NUF_7,schaltraum,schaltraum | schaltraum
+71312,schaltraum mit bes. bauk./ tech. anf. und rlt 1,NUF_7,schaltraum mit bes. bauk./ tech. anf. und rlt 1,schaltraum mit bes. bauk./ tech. anf. und rlt 1 | schaltraum mit bes. bauk./ tech. anf. und rlt 1
+71313,schaltraum für förderanlagen mit rlt 1,NUF_7,schaltraum fur forderanlagen mit rlt 1,schaltraum für förderanlagen mit rlt 1 | schaltraum fur forderanlagen mit rlt 1
+71314,schaltraum für anlagen mit rlt 1,NUF_7,schaltraum fur anlagen mit rlt 1,schaltraum für anlagen mit rlt 1 | schaltraum fur anlagen mit rlt 1
+714,schaltwarten für nutzungsspezifische anlagen angegliederter/ benachbarter räume,NUF_7,schaltwarten fur nutzungsspezifische anlagen angegliederter/ benachbarter raume,schaltwarten für nutzungsspezifische anlagen angegliederter/ benachbarter räume | schaltwarten fur nutzungsspezifische anlagen angegliederter/ benachbarter raume
+71411,schaltraum radiologie mit rlt 2,NUF_7,schaltraum radiologie mit rlt 2,schaltraum radiologie mit rlt 2 | schaltraum radiologie mit rlt 2
+71412,schaltraum op mit rlt 3,NUF_7,schaltraum op mit rlt 3,schaltraum op mit rlt 3 | schaltraum op mit rlt 3
+71413,raum für sonderbedienung tierhaltung/ versuchssteuerung mit rlt 2,NUF_7,raum fur sonderbedienung tierhaltung/ versuchssteuerung mit rlt 2,raum für sonderbedienung tierhaltung/ versuchssteuerung mit rlt 2 | raum fur sonderbedienung tierhaltung/ versuchssteuerung mit rlt 2
+71414,raum für sondersystem (z.b. monitoring / gmp) mit rlt 2,NUF_7,raum fur sondersystem (z.b. monitoring / gmp) mit rlt 2,raum für sondersystem (z.b. monitoring / gmp) mit rlt 2 | raum fur sondersystem (z.b. monitoring / gmp) mit rlt 2
+71415,bedien- / auswertraum röntgen mit rlt 2,NUF_7,bedien- / auswertraum rontgen mit rlt 2,bedien- / auswertraum röntgen mit rlt 2 | bedien- / auswertraum rontgen mit rlt 2
+715,"regieräume, vorführkabinen",NUF_7,"regieraume, vorfuhrkabinen","regieräume, vorführkabinen | regieraume, vorfuhrkabinen"
+71511,regieraum mit rlt 2,NUF_7,regieraum mit rlt 2,regieraum mit rlt 2 | regieraum mit rlt 2
+71521,projektionsraum mit rlt 1,NUF_7,projektionsraum mit rlt 1,projektionsraum mit rlt 1 | projektionsraum mit rlt 1
+71522,filmvorführraum mit rlt 1,NUF_7,filmvorfuhrraum mit rlt 1,filmvorführraum mit rlt 1 | filmvorfuhrraum mit rlt 1
+719,räume für nutzungsspezifische technische ver- und entsorgung,NUF_7,raume fur nutzungsspezifische technische ver- und entsorgung,räume für nutzungsspezifische technische ver- und entsorgung | raume fur nutzungsspezifische technische ver- und entsorgung
+71911,"entsorgungsraum abwasser für geräte, maschinen und anlagen",NUF_7,"entsorgungsraum abwasser fur gerate, maschinen und anlagen","entsorgungsraum abwasser für geräte, maschinen und anlagen | entsorgungsraum abwasser fur gerate, maschinen und anlagen"
+71912,abwasseraufbereitung und neutralisation mit rlt1,NUF_7,abwasseraufbereitung und neutralisation mit rlt1,abwasseraufbereitung und neutralisation mit rlt1 | abwasseraufbereitung und neutralisation mit rlt1
+71921,raum für wasseraufbereitung,NUF_7,raum fur wasseraufbereitung,raum für wasseraufbereitung | raum fur wasseraufbereitung
+71941,"versorgungsraum gase für geräte, maschinen und anlagen",NUF_7,"versorgungsraum gase fur gerate, maschinen und anlagen","versorgungsraum gase für geräte, maschinen und anlagen | versorgungsraum gase fur gerate, maschinen und anlagen"
+71942,"versorgungsraum flüssigkeiten für geräte, maschinen und anlagen",NUF_7,"versorgungsraum flussigkeiten fur gerate, maschinen und anlagen","versorgungsraum flüssigkeiten für geräte, maschinen und anlagen | versorgungsraum flussigkeiten fur gerate, maschinen und anlagen"
+71943,"versorgungsraum druckluft für geräte, maschinen und anlagen",NUF_7,"versorgungsraum druckluft fur gerate, maschinen und anlagen","versorgungsraum druckluft für geräte, maschinen und anlagen | versorgungsraum druckluft fur gerate, maschinen und anlagen"
+71944,schwarzdampf-erzeugung,NUF_7,schwarzdampf-erzeugung,schwarzdampf-erzeugung | schwarzdampf-erzeugung
+71945,reindampf-erzeugung,NUF_7,reindampf-erzeugung,reindampf-erzeugung | reindampf-erzeugung
+71951,"versorgungsraum strom für geräte, maschinen und anlagen",NUF_7,"versorgungsraum strom fur gerate, maschinen und anlagen","versorgungsraum strom für geräte, maschinen und anlagen | versorgungsraum strom fur gerate, maschinen und anlagen"
+71952,raum für notstromversorgung,NUF_7,raum fur notstromversorgung,raum für notstromversorgung | raum fur notstromversorgung
+71953,raum für dieselaggregat,NUF_7,raum fur dieselaggregat,raum für dieselaggregat | raum fur dieselaggregat
+71954,batterieraum,NUF_7,batterieraum,batterieraum | batterieraum
+71961,"versorgungsraum fernmeldetechnik für geräte, maschinen und anlagen",NUF_7,"versorgungsraum fernmeldetechnik fur gerate, maschinen und anlagen","versorgungsraum fernmeldetechnik für geräte, maschinen und anlagen | versorgungsraum fernmeldetechnik fur gerate, maschinen und anlagen"
+71962,"versorgungsraum datentechnik für geräte, maschinen und anlagen",NUF_7,"versorgungsraum datentechnik fur gerate, maschinen und anlagen","versorgungsraum datentechnik für geräte, maschinen und anlagen | versorgungsraum datentechnik fur gerate, maschinen und anlagen"
+71963,"meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.)",NUF_7,"meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.)","meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.) | meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.)"
+71973,"versorgungsraum kälte für geräte, maschinen und anlagen",NUF_7,"versorgungsraum kalte fur gerate, maschinen und anlagen","versorgungsraum kälte für geräte, maschinen und anlagen | versorgungsraum kalte fur gerate, maschinen und anlagen"
+71981,maschinenraum für rohrpostanlage,NUF_7,maschinenraum fur rohrpostanlage,maschinenraum für rohrpostanlage | maschinenraum fur rohrpostanlage
+721,räume für abwasseraufbereitung und -beseitigung,NUF_7,raume fur abwasseraufbereitung und -beseitigung,räume für abwasseraufbereitung und -beseitigung | raume fur abwasseraufbereitung und -beseitigung
+72111,raum für abwasserbeseitigung,NUF_7,raum fur abwasserbeseitigung,raum für abwasserbeseitigung | raum fur abwasserbeseitigung
+72112,abwasseraufbereitung und neutralisation mit rlt 1,NUF_7,abwasseraufbereitung und neutralisation mit rlt 1,abwasseraufbereitung und neutralisation mit rlt 1 | abwasseraufbereitung und neutralisation mit rlt 1
+722,räume für wasserversorgung,NUF_7,raume fur wasserversorgung,räume für wasserversorgung | raume fur wasserversorgung
+72211,raum für wasserversorgung,NUF_7,raum fur wasserversorgung,raum für wasserversorgung | raum fur wasserversorgung
+72212,raum für wasseraufbereitung,NUF_7,raum fur wasseraufbereitung,raum für wasseraufbereitung | raum fur wasseraufbereitung
+723,räume für wärmeversorgung,NUF_7,raume fur warmeversorgung,räume für wärmeversorgung | raume fur warmeversorgung
+72311,zentraler versorgungsraum wärme,NUF_7,zentraler versorgungsraum warme,zentraler versorgungsraum wärme | zentraler versorgungsraum warme
+72312,zentraler raum für heizbrennstoffe fest,NUF_7,zentraler raum fur heizbrennstoffe fest,zentraler raum für heizbrennstoffe fest | zentraler raum fur heizbrennstoffe fest
+72313,zentraler raum für heizbrennstoffe flüssig,NUF_7,zentraler raum fur heizbrennstoffe flussig,zentraler raum für heizbrennstoffe flüssig | zentraler raum fur heizbrennstoffe flussig
+724,räume zur versorgung mit gasen und flüssigkeiten,NUF_7,raume zur versorgung mit gasen und flussigkeiten,räume zur versorgung mit gasen und flüssigkeiten | raume zur versorgung mit gasen und flussigkeiten
+72411,schwarzdampf-erzeugung,NUF_7,schwarzdampf-erzeugung,schwarzdampf-erzeugung | schwarzdampf-erzeugung
+72412,reindampf-erzeugung,NUF_7,reindampf-erzeugung,reindampf-erzeugung | reindampf-erzeugung
+72413,versorgungsraum gase,NUF_7,versorgungsraum gase,versorgungsraum gase | versorgungsraum gase
+72414,versorgungsraum flüssigkeiten,NUF_7,versorgungsraum flussigkeiten,versorgungsraum flüssigkeiten | versorgungsraum flussigkeiten
+72415,versorgungsraum druckluft,NUF_7,versorgungsraum druckluft,versorgungsraum druckluft | versorgungsraum druckluft
+725,räume für stromversorgung,NUF_7,raume fur stromversorgung,räume für stromversorgung | raume fur stromversorgung
+72511,raum für elektrische stromversorgung,NUF_7,raum fur elektrische stromversorgung,raum für elektrische stromversorgung | raum fur elektrische stromversorgung
+72512,raum für notstromversorgung,NUF_7,raum fur notstromversorgung,raum für notstromversorgung | raum fur notstromversorgung
+72513,raum für dieselaggregat,NUF_7,raum fur dieselaggregat,raum für dieselaggregat | raum fur dieselaggregat
+72514,batterieraum,NUF_7,batterieraum,batterieraum | batterieraum
+726,räume für fernmelde-/datentechnik,NUF_7,raume fur fernmelde-/datentechnik,räume für fernmelde-/datentechnik | raume fur fernmelde-/datentechnik
+72611,raum für fernmeldetechnik,NUF_7,raum fur fernmeldetechnik,raum für fernmeldetechnik | raum fur fernmeldetechnik
+72612,raum für datentechnik,NUF_7,raum fur datentechnik,raum für datentechnik | raum fur datentechnik
+727,räume für luft-/ kälteversorgung,NUF_7,raume fur luft-/ kalteversorgung,räume für luft-/ kälteversorgung | raume fur luft-/ kalteversorgung
+72711,zentraler versorgungsraum luft ohne kälte,NUF_7,zentraler versorgungsraum luft ohne kalte,zentraler versorgungsraum luft ohne kälte | zentraler versorgungsraum luft ohne kalte
+72712,zentraler versorgungsraum luft mit kälte,NUF_7,zentraler versorgungsraum luft mit kalte,zentraler versorgungsraum luft mit kälte | zentraler versorgungsraum luft mit kalte
+728,räume für förderanlagen,NUF_7,raume fur forderanlagen,räume für förderanlagen | raume fur forderanlagen
+72811,zentraler versorgungsraum förderanlagen,NUF_7,zentraler versorgungsraum forderanlagen,zentraler versorgungsraum förderanlagen | zentraler versorgungsraum forderanlagen
+729,raum für sonstige ver- und entsorgung,NUF_7,raum fur sonstige ver- und entsorgung,raum für sonstige ver- und entsorgung | raum fur sonstige ver- und entsorgung
+72911,sonstiger zentraler ver- u. entsorgungsraum,NUF_7,sonstiger zentraler ver- u. entsorgungsraum,sonstiger zentraler ver- u. entsorgungsraum | sonstiger zentraler ver- u. entsorgungsraum
+731,abstellraum sowie dach- und kellerabstellraum,NUF_7,abstellraum sowie dach- und kellerabstellraum,abstellraum sowie dach- und kellerabstellraum | abstellraum sowie dach- und kellerabstellraum
+73111,"abstellraum, einfacher ausbau",NUF_7,"abstellraum, einfacher ausbau","abstellraum, einfacher ausbau | abstellraum, einfacher ausbau"
+73112,abstellraum,NUF_7,abstellraum,abstellraum | abstellraum
+73113,abstellraum mit rlt 1,NUF_7,abstellraum mit rlt 1,abstellraum mit rlt 1 | abstellraum mit rlt 1
+732,fahrrad-/ kinderwagenabstellräume,NUF_7,fahrrad-/ kinderwagenabstellraume,fahrrad-/ kinderwagenabstellräume | fahrrad-/ kinderwagenabstellraume
+73211,fahrradabstellraum,NUF_7,fahrradabstellraum,fahrradabstellraum | fahrradabstellraum
+73221,kinderwagenabstellraum,NUF_7,kinderwagenabstellraum,kinderwagenabstellraum | kinderwagenabstellraum
+733,müllsammelräume,NUF_7,mullsammelraume,müllsammelräume | mullsammelraume
+73311,müllsammelraum,NUF_7,mullsammelraum,müllsammelraum | mullsammelraum
+73312,müllsammelraum mit rlt 1,NUF_7,mullsammelraum mit rlt 1,müllsammelraum mit rlt 1 | mullsammelraum mit rlt 1
+73313,müllsammelraum gekühlt mit rlt 2,NUF_7,mullsammelraum gekuhlt mit rlt 2,müllsammelraum gekühlt mit rlt 2 | mullsammelraum gekuhlt mit rlt 2
+734,transportgeräteabstellräume,NUF_7,transportgerateabstellraume,transportgeräteabstellräume | transportgerateabstellraume
+73411,kfa/ awt- container-stauraum,NUF_7,kfa/ awt- container-stauraum,kfa/ awt- container-stauraum | kfa/ awt- container-stauraum
+73412,kfa/ awt-station und containerbahnhof,NUF_7,kfa/ awt-station und containerbahnhof,kfa/ awt-station und containerbahnhof | kfa/ awt-station und containerbahnhof
+73421,krankentransportgeräteraum,NUF_7,krankentransportgerateraum,krankentransportgeräteraum | krankentransportgerateraum
+741,"garagen aller art, mittlere höhe < 4,50 m",NUF_7,"garagen aller art, mittlere hohe < 4,50 m","garagen aller art, mittlere höhe < 4,50 m | garagen aller art, mittlere hohe < 4,50 m"
+74111,"abstellfläche für kfz, einfach",NUF_7,"abstellflache fur kfz, einfach","abstellfläche für kfz, einfach | abstellflache fur kfz, einfach"
+74112,abstellfläche für kfz,NUF_7,abstellflache fur kfz,abstellfläche für kfz | abstellflache fur kfz
+74121,abstellfläche für kfz im gebäude integriert,NUF_7,abstellflache fur kfz im gebaude integriert,abstellfläche für kfz im gebäude integriert | abstellflache fur kfz im gebaude integriert
+74122,abstellfläche für kfz im gebäude integriert mit rlt 1,NUF_7,abstellflache fur kfz im gebaude integriert mit rlt 1,abstellfläche für kfz im gebäude integriert mit rlt 1 | abstellflache fur kfz im gebaude integriert mit rlt 1
+74131,kfz-abstellfläche mit sicherheitsanforderungen,NUF_7,kfz-abstellflache mit sicherheitsanforderungen,kfz-abstellfläche mit sicherheitsanforderungen | kfz-abstellflache mit sicherheitsanforderungen
+74211,großgeräteabstellfläche,NUF_7,grossgerateabstellflache,großgeräteabstellfläche | grossgerateabstellflache
+74212,großgeräteabstellfläche mit rlt 1,NUF_7,grossgerateabstellflache mit rlt 1,großgeräteabstellfläche mit rlt 1 | grossgerateabstellflache mit rlt 1
+74221,kettenfahrzeugabstellfläche,NUF_7,kettenfahrzeugabstellflache,kettenfahrzeugabstellfläche | kettenfahrzeugabstellflache
+74231,schienenfahrzeugabstellfläche,NUF_7,schienenfahrzeugabstellflache,schienenfahrzeugabstellfläche | schienenfahrzeugabstellflache
+74241,luftfahrzeugabstellfläche,NUF_7,luftfahrzeugabstellflache,luftfahrzeugabstellfläche | luftfahrzeugabstellflache
+74251,wasserfahrzeugabstellfläche landseitig,NUF_7,wasserfahrzeugabstellflache landseitig,wasserfahrzeugabstellfläche landseitig | wasserfahrzeugabstellflache landseitig
+74252,wasserfahrzeugabstellfläche seeseitig,NUF_7,wasserfahrzeugabstellflache seeseitig,wasserfahrzeugabstellfläche seeseitig | wasserfahrzeugabstellflache seeseitig
+751,fahrgastflächen,NUF_7,fahrgastflachen,fahrgastflächen | fahrgastflachen
+75111,bahnsteig,NUF_7,bahnsteig,bahnsteig | bahnsteig
+75112,fahrsteig,NUF_7,fahrsteig,fahrsteig | fahrsteig
+75113,flugsteig,NUF_7,flugsteig,flugsteig | flugsteig
+75114,landesteg,NUF_7,landesteg,landesteg | landesteg
+761,schutzraum,NUF_7,schutzraum,schutzraum | schutzraum
+76111,ziviler schutzraum,NUF_7,ziviler schutzraum,ziviler schutzraum | ziviler schutzraum
+76112,militärischer schutzraum,NUF_7,militarischer schutzraum,militärischer schutzraum | militarischer schutzraum
+76113,abc schutzraum,NUF_7,abc schutzraum,abc schutzraum | abc schutzraum
+762,mehrzweckschutzraum,NUF_7,mehrzweckschutzraum,mehrzweckschutzraum | mehrzweckschutzraum
+76211,ziviler schutzraum als mehrzweckraum,NUF_7,ziviler schutzraum als mehrzweckraum,ziviler schutzraum als mehrzweckraum | ziviler schutzraum als mehrzweckraum
+76212,militärischer schutzraum als mehrzweckraum,NUF_7,militarischer schutzraum als mehrzweckraum,militärischer schutzraum als mehrzweckraum | militarischer schutzraum als mehrzweckraum
+771,nicht ausgebaute nutzungsfläche,NUF_7,nicht ausgebaute nutzungsflache,nicht ausgebaute nutzungsfläche | nicht ausgebaute nutzungsflache
+77111,nicht ausgebaute aufenhaltsfläche,NUF_7,nicht ausgebaute aufenhaltsflache,nicht ausgebaute aufenhaltsfläche | nicht ausgebaute aufenhaltsflache
+77112,nicht ausgebaute bürofläche,NUF_7,nicht ausgebaute buroflache,nicht ausgebaute bürofläche | nicht ausgebaute buroflache
+77113,nicht ausgebaute laborfläche,NUF_7,nicht ausgebaute laborflache,nicht ausgebaute laborfläche | nicht ausgebaute laborflache
+77114,nicht ausgebaute lagerfläche,NUF_7,nicht ausgebaute lagerflache,nicht ausgebaute lagerfläche | nicht ausgebaute lagerflache
+781,toiletten,NUF_7,toiletten,toiletten | toiletten
+78111,toilette,NUF_7,toilette,toilette | toilette
+78112,toilette mit rlt 1,NUF_7,toilette mit rlt 1,toilette mit rlt 1 | toilette mit rlt 1
+78113,toilette barrierefrei mit rlt 1,NUF_7,toilette barrierefrei mit rlt 1,toilette barrierefrei mit rlt 1 | toilette barrierefrei mit rlt 1
+78114,patiententoilette mit rlt 1,NUF_7,patiententoilette mit rlt 1,patiententoilette mit rlt 1 | patiententoilette mit rlt 1
+78115,toilette mit strahlenschutzmaßnahmen und  rlt 2,NUF_7,toilette mit strahlenschutzmassnahmen und  rlt 2,toilette mit strahlenschutzmaßnahmen und  rlt 2 | toilette mit strahlenschutzmassnahmen und  rlt 2
+782,wickelräume/ schminkräume/ wellnessbereich,NUF_7,wickelraume/ schminkraume/ wellnessbereich,wickelräume/ schminkräume/ wellnessbereich | wickelraume/ schminkraume/ wellnessbereich
+78211,wickelraum,NUF_7,wickelraum,wickelraum | wickelraum
+78212,wickelraum mit waschtisch,NUF_7,wickelraum mit waschtisch,wickelraum mit waschtisch | wickelraum mit waschtisch
+78213,wickelraum mit waschtisch und rlt 1,NUF_7,wickelraum mit waschtisch und rlt 1,wickelraum mit waschtisch und rlt 1 | wickelraum mit waschtisch und rlt 1
+78221,schminkraum,NUF_7,schminkraum,schminkraum | schminkraum
+78222,schminkraum mit waschtisch,NUF_7,schminkraum mit waschtisch,schminkraum mit waschtisch | schminkraum mit waschtisch
+78223,schminkraum mit waschbecken und rlt 1,NUF_7,schminkraum mit waschbecken und rlt 1,schminkraum mit waschbecken und rlt 1 | schminkraum mit waschbecken und rlt 1
+78231,saunaraum,NUF_7,saunaraum,saunaraum | saunaraum
+78232,wellnessraum,NUF_7,wellnessraum,wellnessraum | wellnessraum
+783,"sanitärräume/ -flächen: duschen, baden, waschen",NUF_7,"sanitarraume/ -flachen: duschen, baden, waschen","sanitärräume/ -flächen: duschen, baden, waschen | sanitarraume/ -flachen: duschen, baden, waschen"
+78311,sanitärraum,NUF_7,sanitarraum,sanitärraum | sanitarraum
+78312,sanitärraum mit rlt 1,NUF_7,sanitarraum mit rlt 1,sanitärraum mit rlt 1 | sanitarraum mit rlt 1
+78313,sanitärzelle patientenzimmer mit rlt 1,NUF_7,sanitarzelle patientenzimmer mit rlt 1,sanitärzelle patientenzimmer mit rlt 1 | sanitarzelle patientenzimmer mit rlt 1
+78314,sanitärzelle patientenzimmmer mit bes. hygienischen anf. mit rlt 1,NUF_7,sanitarzelle patientenzimmmer mit bes. hygienischen anf. mit rlt 1,sanitärzelle patientenzimmmer mit bes. hygienischen anf. mit rlt 1 | sanitarzelle patientenzimmmer mit bes. hygienischen anf. mit rlt 1
+78315,sanitärzelle mit strahlenschutzmaßnahmen und rlt 2,NUF_7,sanitarzelle mit strahlenschutzmassnahmen und rlt 2,sanitärzelle mit strahlenschutzmaßnahmen und rlt 2 | sanitarzelle mit strahlenschutzmassnahmen und rlt 2
+78316,waschraum,NUF_7,waschraum,waschraum | waschraum
+78317,waschraum mit rlt 1,NUF_7,waschraum mit rlt 1,waschraum mit rlt 1 | waschraum mit rlt 1
+78318,waschraum barrierefrei mit rlt 1,NUF_7,waschraum barrierefrei mit rlt 1,waschraum barrierefrei mit rlt 1 | waschraum barrierefrei mit rlt 1
+78319,waschraum mit strahlenschutzmaßnahmen und rlt 1,NUF_7,waschraum mit strahlenschutzmassnahmen und rlt 1,waschraum mit strahlenschutzmaßnahmen und rlt 1 | waschraum mit strahlenschutzmassnahmen und rlt 1
+78321,duschraum / baderaum,NUF_7,duschraum / baderaum,duschraum / baderaum | duschraum / baderaum
+78322,duschraum / baderaum mit rlt 1,NUF_7,duschraum / baderaum mit rlt 1,duschraum / baderaum mit rlt 1 | duschraum / baderaum mit rlt 1
+78323,duschraum / baderaum barrierefrei mit rlt 1,NUF_7,duschraum / baderaum barrierefrei mit rlt 1,duschraum / baderaum barrierefrei mit rlt 1 | duschraum / baderaum barrierefrei mit rlt 1
+78324,patientendusche / patientenbad mit rlt 1,NUF_7,patientendusche / patientenbad mit rlt 1,patientendusche / patientenbad mit rlt 1 | patientendusche / patientenbad mit rlt 1
+78325,duschraum mit strahlenschutzmaßnahmen mit rlt 1,NUF_7,duschraum mit strahlenschutzmassnahmen mit rlt 1,duschraum mit strahlenschutzmaßnahmen mit rlt 1 | duschraum mit strahlenschutzmassnahmen mit rlt 1
+78331,waschraum,NUF_7,waschraum,waschraum | waschraum
+78332,waschraum mit rlt 1,NUF_7,waschraum mit rlt 1,waschraum mit rlt 1 | waschraum mit rlt 1
+78333,duschraum,NUF_7,duschraum,duschraum | duschraum
+78334,duschraum mit rlt 1,NUF_7,duschraum mit rlt 1,duschraum mit rlt 1 | duschraum mit rlt 1
+78341,badezimmer in wohnungen,NUF_7,badezimmer in wohnungen,badezimmer in wohnungen | badezimmer in wohnungen
+78342,badezimmer in wohnungen mit rlt 1,NUF_7,badezimmer in wohnungen mit rlt 1,badezimmer in wohnungen mit rlt 1 | badezimmer in wohnungen mit rlt 1
+784,reinigungsschleusen,NUF_7,reinigungsschleusen,reinigungsschleusen | reinigungsschleusen
+78411,zwangsdusche mit rlt 1,NUF_7,zwangsdusche mit rlt 1,zwangsdusche mit rlt 1 | zwangsdusche mit rlt 1
+78412,"zwangsdusche im strahlengeschützten, hygienisch abgeschlossenen bereich und rlt 2",NUF_7,"zwangsdusche im strahlengeschutzten, hygienisch abgeschlossenen bereich und rlt 2","zwangsdusche im strahlengeschützten, hygienisch abgeschlossenen bereich und rlt 2 | zwangsdusche im strahlengeschutzten, hygienisch abgeschlossenen bereich und rlt 2"
+785,putzräume,NUF_7,putzraume,putzräume | putzraume
+78511,putzraum mit ausguß,NUF_7,putzraum mit ausguss,putzraum mit ausguß | putzraum mit ausguss
+78512,putzraum mit ausguß und rlt 1,NUF_7,putzraum mit ausguss und rlt 1,putzraum mit ausguß und rlt 1 | putzraum mit ausguss und rlt 1
+78513,"putzraum mit ausguß, bes. hygienischen anf. und rlt 1",NUF_7,"putzraum mit ausguss, bes. hygienischen anf. und rlt 1","putzraum mit ausguß, bes. hygienischen anf. und rlt 1 | putzraum mit ausguss, bes. hygienischen anf. und rlt 1"
+78514,"putzraum mit ausguß, raumklasse ii im op-bereich",NUF_7,"putzraum mit ausguss, raumklasse ii im op-bereich","putzraum mit ausguß, raumklasse ii im op-bereich | putzraum mit ausguss, raumklasse ii im op-bereich"
+791,umkleideräume,NUF_7,umkleideraume,umkleideräume | umkleideraume
+79111,einzelumkleideraum,NUF_7,einzelumkleideraum,einzelumkleideraum | einzelumkleideraum
+79112,einzelumkleideraum mit waschbecken,NUF_7,einzelumkleideraum mit waschbecken,einzelumkleideraum mit waschbecken | einzelumkleideraum mit waschbecken
+79113,einzelumkleideraum mit rlt1,NUF_7,einzelumkleideraum mit rlt1,einzelumkleideraum mit rlt1 | einzelumkleideraum mit rlt1
+79114,einzelumkleideraum mit waschbecken und rlt1,NUF_7,einzelumkleideraum mit waschbecken und rlt1,einzelumkleideraum mit waschbecken und rlt1 | einzelumkleideraum mit waschbecken und rlt1
+79115,patientenumkleide u+b-raum mit rlt1,NUF_7,patientenumkleide u+b-raum mit rlt1,patientenumkleide u+b-raum mit rlt1 | patientenumkleide u+b-raum mit rlt1
+79121,gruppenumkleideraum,NUF_7,gruppenumkleideraum,gruppenumkleideraum | gruppenumkleideraum
+79122,gruppenumkleideraum mit waschtisch und rlt 1,NUF_7,gruppenumkleideraum mit waschtisch und rlt 1,gruppenumkleideraum mit waschtisch und rlt 1 | gruppenumkleideraum mit waschtisch und rlt 1
+792,umkleideschleusen,NUF_7,umkleideschleusen,umkleideschleusen | umkleideschleusen
+79211,umkleideschleuse,NUF_7,umkleideschleuse,umkleideschleuse | umkleideschleuse
+79212,umkleideschleuse mit waschtisch,NUF_7,umkleideschleuse mit waschtisch,umkleideschleuse mit waschtisch | umkleideschleuse mit waschtisch
+79213,umkleideschleuse mit waschtisch und rlt 1,NUF_7,umkleideschleuse mit waschtisch und rlt 1,umkleideschleuse mit waschtisch und rlt 1 | umkleideschleuse mit waschtisch und rlt 1
+79221,"umkleideschleuse im op-bereich, raumklasse ii",NUF_7,"umkleideschleuse im op-bereich, raumklasse ii","umkleideschleuse im op-bereich, raumklasse ii | umkleideschleuse im op-bereich, raumklasse ii"
+79231,personalschleuse mit hygienischen anf. und rlt 1,NUF_7,personalschleuse mit hygienischen anf. und rlt 1,personalschleuse mit hygienischen anf. und rlt 1 | personalschleuse mit hygienischen anf. und rlt 1
+79242,personalschleuse im strahlengeschützten bereich mit dekontaminationsdusche und rlt 1,NUF_7,personalschleuse im strahlengeschutzten bereich mit dekontaminationsdusche und rlt 1,personalschleuse im strahlengeschützten bereich mit dekontaminationsdusche und rlt 1 | personalschleuse im strahlengeschutzten bereich mit dekontaminationsdusche und rlt 1
+79243,"personalschleuse m. bes. baukonstr., hygien., rlt-anforderungen u. strahlenschutz",NUF_7,"personalschleuse m. bes. baukonstr., hygien., rlt-anforderungen u. strahlenschutz","personalschleuse m. bes. baukonstr., hygien., rlt-anforderungen u. strahlenschutz | personalschleuse m. bes. baukonstr., hygien., rlt-anforderungen u. strahlenschutz"
+793,garderoben,NUF_7,garderoben,garderoben | garderoben
+79311,garderobe,NUF_7,garderobe,garderobe | garderobe
+79312,garderobe mit rlt 1,NUF_7,garderobe mit rlt 1,garderobe mit rlt 1 | garderobe mit rlt 1
+79321,künstlergarderobe,NUF_7,kunstlergarderobe,künstlergarderobe | kunstlergarderobe
+79322,künstlergarderobe mit waschtisch und rlt 1,NUF_7,kunstlergarderobe mit waschtisch und rlt 1,künstlergarderobe mit waschtisch und rlt 1 | kunstlergarderobe mit waschtisch und rlt 1
+794,schrankräume in wohngebäuden,NUF_7,schrankraume in wohngebauden,schrankräume in wohngebäuden | schrankraume in wohngebauden
+79411,schrankraum,NUF_7,schrankraum,schrankraum | schrankraum
+79412,schrankraum mit rlt 1,NUF_7,schrankraum mit rlt 1,schrankraum mit rlt 1 | schrankraum mit rlt 1
+811,räume für abwasseraufbereitung und -beseitigung,NUF_8,raume fur abwasseraufbereitung und -beseitigung,räume für abwasseraufbereitung und -beseitigung | raume fur abwasseraufbereitung und -beseitigung
+81111,raum für abwasserhebeanlage,NUF_8,raum fur abwasserhebeanlage,raum für abwasserhebeanlage | raum fur abwasserhebeanlage
+81121,raum für abwasseraufbereitung und neutralisation mit rlt 1,NUF_8,raum fur abwasseraufbereitung und neutralisation mit rlt 1,raum für abwasseraufbereitung und neutralisation mit rlt 1 | raum fur abwasseraufbereitung und neutralisation mit rlt 1
+819,referenzraum abwasseraufbereitung und -beseitigung,NUF_8,referenzraum abwasseraufbereitung und -beseitigung,referenzraum abwasseraufbereitung und -beseitigung | referenzraum abwasseraufbereitung und -beseitigung
+81911,referenzraum für abwasseraufbereitung und -beseitigung,NUF_8,referenzraum fur abwasseraufbereitung und -beseitigung,referenzraum für abwasseraufbereitung und -beseitigung | referenzraum fur abwasseraufbereitung und -beseitigung
+821,räume für wasserversorgung,NUF_8,raume fur wasserversorgung,räume für wasserversorgung | raume fur wasserversorgung
+82111,raum für wasserversorgung,NUF_8,raum fur wasserversorgung,raum für wasserversorgung | raum fur wasserversorgung
+82121,raum für wasseraufbereitung,NUF_8,raum fur wasseraufbereitung,raum für wasseraufbereitung | raum fur wasseraufbereitung
+829,referenzraum wasserversorgung,NUF_8,referenzraum wasserversorgung,referenzraum wasserversorgung | referenzraum wasserversorgung
+82911,referenzraum wasserversorgung,NUF_8,referenzraum wasserversorgung,referenzraum wasserversorgung | referenzraum wasserversorgung
+831,räume für heizung und brauchwassererwärmung,NUF_8,raume fur heizung und brauchwassererwarmung,räume für heizung und brauchwassererwärmung | raume fur heizung und brauchwassererwarmung
+83111,raum für heizung und brauchwassererwärmung,NUF_8,raum fur heizung und brauchwassererwarmung,raum für heizung und brauchwassererwärmung | raum fur heizung und brauchwassererwarmung
+83121,lagerraum für heizbrennstoffe fest,NUF_8,lagerraum fur heizbrennstoffe fest,lagerraum für heizbrennstoffe fest | lagerraum fur heizbrennstoffe fest
+83122,lagerraum für heizbrennstoffe flüssig,NUF_8,lagerraum fur heizbrennstoffe flussig,lagerraum für heizbrennstoffe flüssig | lagerraum fur heizbrennstoffe flussig
+83123,lagerraum für heizbrennstoffe gasförmig,NUF_8,lagerraum fur heizbrennstoffe gasformig,lagerraum für heizbrennstoffe gasförmig | lagerraum fur heizbrennstoffe gasformig
+839,referenzraum heizung und brauchwassererwärmung,NUF_8,referenzraum heizung und brauchwassererwarmung,referenzraum heizung und brauchwassererwärmung | referenzraum heizung und brauchwassererwarmung
+83911,referenzraum heizung und brauchwassererwärmung,NUF_8,referenzraum heizung und brauchwassererwarmung,referenzraum heizung und brauchwassererwärmung | referenzraum heizung und brauchwassererwarmung
+841,gase und flüssigkeiten (ausser für heizzwecke),NUF_8,gase und flussigkeiten (ausser fur heizzwecke),gase und flüssigkeiten (ausser für heizzwecke) | gase und flussigkeiten (ausser fur heizzwecke)
+84111,schwarzdampf-erzeugung,NUF_8,schwarzdampf-erzeugung,schwarzdampf-erzeugung | schwarzdampf-erzeugung
+84112,reindampf-erzeugung,NUF_8,reindampf-erzeugung,reindampf-erzeugung | reindampf-erzeugung
+84121,versorgungsraum gase,NUF_8,versorgungsraum gase,versorgungsraum gase | versorgungsraum gase
+84122,versorgungsraum flüssigkeiten,NUF_8,versorgungsraum flussigkeiten,versorgungsraum flüssigkeiten | versorgungsraum flussigkeiten
+84123,versorgungsraum druckluft,NUF_8,versorgungsraum druckluft,versorgungsraum druckluft | versorgungsraum druckluft
+849,referenzraum gase und flüssigkeiten,NUF_8,referenzraum gase und flussigkeiten,referenzraum gase und flüssigkeiten | referenzraum gase und flussigkeiten
+84911,referenzraum gase und flüssigkeiten,NUF_8,referenzraum gase und flussigkeiten,referenzraum gase und flüssigkeiten | referenzraum gase und flussigkeiten
+851,räume für elektrische stromversorgung,NUF_8,raume fur elektrische stromversorgung,räume für elektrische stromversorgung | raume fur elektrische stromversorgung
+85111,elektrische stromversorgung,NUF_8,elektrische stromversorgung,elektrische stromversorgung | elektrische stromversorgung
+85121,notstromversorgung,NUF_8,notstromversorgung,notstromversorgung | notstromversorgung
+85122,raum für dieselaggregat,NUF_8,raum fur dieselaggregat,raum für dieselaggregat | raum fur dieselaggregat
+85123,batterieraum,NUF_8,batterieraum,batterieraum | batterieraum
+859,referenzraum elektrische stromversorgung,NUF_8,referenzraum elektrische stromversorgung,referenzraum elektrische stromversorgung | referenzraum elektrische stromversorgung
+85911,referenzraum elektrische stromversorgung,NUF_8,referenzraum elektrische stromversorgung,referenzraum elektrische stromversorgung | referenzraum elektrische stromversorgung
+861,räume für fernmeldetechnik,NUF_8,raume fur fernmeldetechnik,räume für fernmeldetechnik | raume fur fernmeldetechnik
+86111,fernmeldetechnik,NUF_8,fernmeldetechnik,fernmeldetechnik | fernmeldetechnik
+86112,dv-verteilerraum,NUF_8,dv-verteilerraum,dv-verteilerraum | dv-verteilerraum
+86121,gebäudeleittechnik (glt),NUF_8,gebaudeleittechnik (glt),gebäudeleittechnik (glt) | gebaudeleittechnik (glt)
+86122,"meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.)",NUF_8,"meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.)","meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.) | meldeanlageraum (brandmeldeanlage, einbruchmeldeanlage, etc.)"
+869,referenzraum fernmelde- und gebäudeleittechnik,NUF_8,referenzraum fernmelde- und gebaudeleittechnik,referenzraum fernmelde- und gebäudeleittechnik | referenzraum fernmelde- und gebaudeleittechnik
+86911,referenzraum fernmelde- und gebäudeleittechnik,NUF_8,referenzraum fernmelde- und gebaudeleittechnik,referenzraum fernmelde- und gebäudeleittechnik | referenzraum fernmelde- und gebaudeleittechnik
+871,raumlufttechnische anlagen,NUF_8,raumlufttechnische anlagen,raumlufttechnische anlagen | raumlufttechnische anlagen
+87111,versorgungsraum luft ohne kälte,NUF_8,versorgungsraum luft ohne kalte,versorgungsraum luft ohne kälte | versorgungsraum luft ohne kalte
+87112,versorgungsraum luft u. kälte,NUF_8,versorgungsraum luft u. kalte,versorgungsraum luft u. kälte | versorgungsraum luft u. kalte
+879,referenzraum raumlufttechnik,NUF_8,referenzraum raumlufttechnik,referenzraum raumlufttechnik | referenzraum raumlufttechnik
+87911,referenzraum raumlufttechnik,NUF_8,referenzraum raumlufttechnik,referenzraum raumlufttechnik | referenzraum raumlufttechnik
+881,aufzug- und förderanlagen,NUF_8,aufzug- und forderanlagen,aufzug- und förderanlagen | aufzug- und forderanlagen
+88111,maschinenraum für aufzuganlagen,NUF_8,maschinenraum fur aufzuganlagen,maschinenraum für aufzuganlagen | maschinenraum fur aufzuganlagen
+88121,maschinenraum für förderanlagen,NUF_8,maschinenraum fur forderanlagen,maschinenraum für förderanlagen | maschinenraum fur forderanlagen
+889,referenzraum aufzug- und förderanlagen,NUF_8,referenzraum aufzug- und forderanlagen,referenzraum aufzug- und förderanlagen | referenzraum aufzug- und forderanlagen
+88911,referenzraum aufzug- und förderanlagen,NUF_8,referenzraum aufzug- und forderanlagen,referenzraum aufzug- und förderanlagen | referenzraum aufzug- und forderanlagen
+891,räume für sonstige betriebs. anlagen,NUF_8,raume fur sonstige betriebs. anlagen,räume für sonstige betriebs. anlagen | raume fur sonstige betriebs. anlagen
+89111,hausanschlußraum,NUF_8,hausanschlussraum,hausanschlußraum | hausanschlussraum
+89121,installationsraum,NUF_8,installationsraum,installationsraum | installationsraum
+89131,abfallverbrennungsraum,NUF_8,abfallverbrennungsraum,abfallverbrennungsraum | abfallverbrennungsraum
+89141,sonstiger zentraler ver- u. entsorgungsraum,NUF_8,sonstiger zentraler ver- u. entsorgungsraum,sonstiger zentraler ver- u. entsorgungsraum | sonstiger zentraler ver- u. entsorgungsraum
+892,"schächte, kanäle, flächen",NUF_8,"schachte, kanale, flachen","schächte, kanäle, flächen | schachte, kanale, flachen"
+89211,installationsschacht,NUF_8,installationsschacht,installationsschacht | installationsschacht
+89221,installationskanal,NUF_8,installationskanal,installationskanal | installationskanal
+89231,wartungsfläche,NUF_8,wartungsflache,wartungsfläche | wartungsflache
+899,referenzraum sonstige betriebs. anlagen,NUF_8,referenzraum sonstige betriebs. anlagen,referenzraum sonstige betriebs. anlagen | referenzraum sonstige betriebs. anlagen
+89911,referenzraum sonstige betriebs. anlagen,NUF_8,referenzraum sonstige betriebs. anlagen,referenzraum sonstige betriebs. anlagen | referenzraum sonstige betriebs. anlagen
+911,flure,NUF_9,flure,flure | flure
+91111,flur,NUF_9,flur,flur | flur
+91112,flur mit rlt 1,NUF_9,flur mit rlt 1,flur mit rlt 1 | flur mit rlt 1
+91113,flur in wohnungen,NUF_9,flur in wohnungen,flur in wohnungen | flur in wohnungen
+91114,vorraum,NUF_9,vorraum,vorraum | vorraum
+91115,verbindungssteg,NUF_9,verbindungssteg,verbindungssteg | verbindungssteg
+91121,"flur im klinikbereich, raumklasse ii",NUF_9,"flur im klinikbereich, raumklasse ii","flur im klinikbereich, raumklasse ii | flur im klinikbereich, raumklasse ii"
+91122,flur im laborbereich ab s3,NUF_9,flur im laborbereich ab s3,flur im laborbereich ab s3 | flur im laborbereich ab s3
+91123,"flur in tierhaltung, hochinstalliert",NUF_9,"flur in tierhaltung, hochinstalliert","flur in tierhaltung, hochinstalliert | flur in tierhaltung, hochinstalliert"
+91131,flur als fluchtweg,NUF_9,flur als fluchtweg,flur als fluchtweg | flur als fluchtweg
+91132,fluchtbalkon,NUF_9,fluchtbalkon,fluchtbalkon | fluchtbalkon
+912,schleusen,NUF_9,schleusen,schleusen | schleusen
+91211,windfang,NUF_9,windfang,windfang | windfang
+91212,schleuse (durchgang),NUF_9,schleuse (durchgang),schleuse (durchgang) | schleuse (durchgang)
+91221,schleuse tierhaltung spezifiziertpathogenfrei,NUF_9,schleuse tierhaltung spezifiziertpathogenfrei,schleuse tierhaltung spezifiziertpathogenfrei | schleuse tierhaltung spezifiziertpathogenfrei
+91222,schleuse mit sicherheitsanforderungen s3,NUF_9,schleuse mit sicherheitsanforderungen s3,schleuse mit sicherheitsanforderungen s3 | schleuse mit sicherheitsanforderungen s3
+91223,schleuse mit sicherheitsanforderungen strahlenschutz,NUF_9,schleuse mit sicherheitsanforderungen strahlenschutz,schleuse mit sicherheitsanforderungen strahlenschutz | schleuse mit sicherheitsanforderungen strahlenschutz
+91224,schleuse mit vereinzelungsanlage,NUF_9,schleuse mit vereinzelungsanlage,schleuse mit vereinzelungsanlage | schleuse mit vereinzelungsanlage
+913,hallen,NUF_9,hallen,hallen | hallen
+91311,eingangshalle,NUF_9,eingangshalle,eingangshalle | eingangshalle
+919,referenzraum flure und hallen,NUF_9,referenzraum flure und hallen,referenzraum flure und hallen | referenzraum flure und hallen
+91911,referenzraum flure und hallen,NUF_9,referenzraum flure und hallen,referenzraum flure und hallen | referenzraum flure und hallen
+921,treppenraum,NUF_9,treppenraum,treppenraum | treppenraum
+92111,"treppenraum, -lauf, rampe",NUF_9,"treppenraum, -lauf, rampe","treppenraum, -lauf, rampe | treppenraum, -lauf, rampe"
+92112,"treppenraum, -lauf, rampe mit rlt 1",NUF_9,"treppenraum, -lauf, rampe mit rlt 1","treppenraum, -lauf, rampe mit rlt 1 | treppenraum, -lauf, rampe mit rlt 1"
+92114,treppe in wohnungen,NUF_9,treppe in wohnungen,treppe in wohnungen | treppe in wohnungen
+92121,sicherheitstreppenraum,NUF_9,sicherheitstreppenraum,sicherheitstreppenraum | sicherheitstreppenraum
+92122,übungstreppenhaus igt (integrationstraining),NUF_9,ubungstreppenhaus igt (integrationstraining),übungstreppenhaus igt (integrationstraining) | ubungstreppenhaus igt (integrationstraining)
+92131,"fluchttreppenraum, -lauf",NUF_9,"fluchttreppenraum, -lauf","fluchttreppenraum, -lauf | fluchttreppenraum, -lauf"
+92132,fluchtrampe als zweiter rettungswegweg,NUF_9,fluchtrampe als zweiter rettungswegweg,fluchtrampe als zweiter rettungswegweg | fluchtrampe als zweiter rettungswegweg
+922,rollsteige,NUF_9,rollsteige,rollsteige | rollsteige
+92211,"rolltreppe, -rampe",NUF_9,"rolltreppe, -rampe","rolltreppe, -rampe | rolltreppe, -rampe"
+929,referenzraum treppe,NUF_9,referenzraum treppe,referenzraum treppe | referenzraum treppe
+92911,referenzraum treppe,NUF_9,referenzraum treppe,referenzraum treppe | referenzraum treppe
+931,aufzug-/ abwurfschächte,NUF_9,aufzug-/ abwurfschachte,aufzug-/ abwurfschächte | aufzug-/ abwurfschachte
+93111,schacht für personenaufzug,NUF_9,schacht fur personenaufzug,schacht für personenaufzug | schacht fur personenaufzug
+93121,schacht mit lieferaufzug,NUF_9,schacht mit lieferaufzug,schacht mit lieferaufzug | schacht mit lieferaufzug
+93122,schacht mit materialaufzug,NUF_9,schacht mit materialaufzug,schacht mit materialaufzug | schacht mit materialaufzug
+93123,schacht für rohrpost,NUF_9,schacht fur rohrpost,schacht für rohrpost | schacht fur rohrpost
+93124,schacht für allgemeinen warentransport (awt),NUF_9,schacht fur allgemeinen warentransport (awt),schacht für allgemeinen warentransport (awt) | schacht fur allgemeinen warentransport (awt)
+93125,tunnel für materialförderanlagen (awt),NUF_9,tunnel fur materialforderanlagen (awt),tunnel für materialförderanlagen (awt) | tunnel fur materialforderanlagen (awt)
+93131,abwurfschacht,NUF_9,abwurfschacht,abwurfschacht | abwurfschacht
+939,referenz schächte für förderanlagen,NUF_9,referenz schachte fur forderanlagen,referenz schächte für förderanlagen | referenz schachte fur forderanlagen
+93911,referenz schächte für förderanlagen,NUF_9,referenz schachte fur forderanlagen,referenz schächte für förderanlagen | referenz schachte fur forderanlagen
+941,durchfahrten,NUF_9,durchfahrten,durchfahrten | durchfahrten
+94111,fahrzeugverkehrsfläche horizontal,NUF_9,fahrzeugverkehrsflache horizontal,fahrzeugverkehrsfläche horizontal | fahrzeugverkehrsflache horizontal
+94112,fahrzeugverkehrsfläche horizontal mit rlt 1,NUF_9,fahrzeugverkehrsflache horizontal mit rlt 1,fahrzeugverkehrsfläche horizontal mit rlt 1 | fahrzeugverkehrsflache horizontal mit rlt 1
+94121,fahrzeugverkehrsfläche geneigt (rampe),NUF_9,fahrzeugverkehrsflache geneigt (rampe),fahrzeugverkehrsfläche geneigt (rampe) | fahrzeugverkehrsflache geneigt (rampe)
+94122,fahrzeugverkehrsfläche geneigt (rampe) mit rlt 1,NUF_9,fahrzeugverkehrsflache geneigt (rampe) mit rlt 1,fahrzeugverkehrsfläche geneigt (rampe) mit rlt 1 | fahrzeugverkehrsflache geneigt (rampe) mit rlt 1
+949,referenz fahrzeugverkehrsflächen,NUF_9,referenz fahrzeugverkehrsflachen,referenz fahrzeugverkehrsflächen | referenz fahrzeugverkehrsflachen
+94911,referenz fahrzeugverkehrsflächen,NUF_9,referenz fahrzeugverkehrsflachen,referenz fahrzeugverkehrsflächen | referenz fahrzeugverkehrsflachen

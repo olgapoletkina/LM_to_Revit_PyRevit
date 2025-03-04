@@ -1,0 +1,26 @@
+# Ignore fine-tuned model directories
+fine_tuned_model_for_Room_Key_v5/
+fine_tuned_model_for_NUF_clustering_v5/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large model files
+*.safetensors
+*.bin
+*.h5
+*.ckpt
+*.msgpack
+
+# Ignore files with key and dc
+*key*
+*dc*

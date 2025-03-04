@@ -1,0 +1,36 @@
+MODEL_DEPLOY/
+│
+├── data/
+│   ├── NUF_data.csv
+│   ├── RL_Bau_Sachsen_Raumnutzungskatalog_NC-Katalog_Muster_13.pdf
+│
+├── fine_tuned_model_for_NUF_clustering_v5/
+│   ├── 1_Pooling/
+│   ├── config_sentence_transformers.json
+│   ├── config.json
+│   ├── model.safetensors
+│   ├── modules.json
+│   ├── README.md
+│   ├── sentence_bert_config.json
+│   ├── sentencepiece.bpe.model
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── tokenizer.json
+│
+├── ML_to_BIM.extension/
+│   ├── lib/
+│   ├── ML_temp.tab/
+│       ├── temp.Panel/
+│           ├── NUF_by_Name/
+│               ├── icon.png
+│               ├── script.py
+│
+├── venv/  # Virtual environment
+│
+├── app.py
+├── class_embeddings.json
+├── data_preparation.ipynb
+├── mode_training.ipynb
+├── project_structure.txt
+├── test.ipynb
+         
