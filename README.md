@@ -1,5 +1,7 @@
 # 🏢 Fine-Tuned Room Classifier for German NUF Codes
 
+https://huggingface.co/olgapoletkina/fine-tuned-nuf-room-classifier 
+
 This model is a fine-tuned multilingual sentence-transformer that classifies German room names into their appropriate **NUF (Nutzenfläche)** categories. It’s trained on real architectural data (from Sachsen’s NC catalog) to support Revit automation workflows using pyRevit and Machine Learning.
 
 ---
