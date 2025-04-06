@@ -1,36 +1,34 @@
-MODEL_DEPLOY/
-│
-├── data/
-│   ├── NUF_data.csv
-│   ├── RL_Bau_Sachsen_Raumnutzungskatalog_NC-Katalog_Muster_13.pdf
-│
-├── fine_tuned_model_for_NUF_clustering_v5/
-│   ├── 1_Pooling/
-│   ├── config_sentence_transformers.json
-│   ├── config.json
-│   ├── model.safetensors
-│   ├── modules.json
-│   ├── README.md
-│   ├── sentence_bert_config.json
-│   ├── sentencepiece.bpe.model
-│   ├── special_tokens_map.json
-│   ├── tokenizer_config.json
-│   ├── tokenizer.json
-│
-├── ML_to_BIM.extension/
-│   ├── lib/
-│   ├── ML_temp.tab/
-│       ├── temp.Panel/
-│           ├── NUF_by_Name/
-│               ├── icon.png
-│               ├── script.py
-│
-├── venv/  # Virtual environment
-│
-├── app.py
-├── class_embeddings.json
-├── data_preparation.ipynb
-├── mode_training.ipynb
-├── project_structure.txt
-├── test.ipynb
-         
+LM_to_Revit_PyRevit/
+├── data/                                # Input data and references
+│   ├── NUF_data.csv                     # Preprocessed room name + NUF mapping
+│   └── RL_Bau_Sachsen_...Muster_13.pdf  # Original NC-Katalog reference document
+
+├── fine_tuned_model_for_NUF_clustering_v5/   # Fine-tuned SentenceTransformer model
+│   ├── config.json, tokenizer files, etc.    # All model artifacts
+│   ├── model.safetensors                     # Model weights
+│   └── README.md                             # Hugging Face-style model card
+
+├── ML_to_BIM.extension/               # pyRevit-compatible extension folder
+│   └── lib/
+│       └── ML_temp.tab/
+│           └── temp.Panel/
+│               └── NUF_by_Name/       # Custom panel and button for pyRevit
+│                   ├── icon.png
+│                   └── script.py      # Calls Flask API and writes predictions to Revit
+
+├── notebooks/                         # All Jupyter notebooks grouped here
+│   ├── data_preparation.ipynb         # PDF parsing, preprocessing, data cleaning
+│   ├── model_training.ipynb           # Fine-tuning sentence transformer
+│   ├── test_key.ipynb                 # Example classification + model usage
+│   └── data_preparation_key.ipynb     # Alternate/variant prep scripts
+
+├── scripts/                           # Python modules and inference logic
+│   ├── app.py                         # Flask API for serving the model
+│   ├── app_key.py                     # Alternate version of the API script
+│   └── class_embeddings.json          # Class prototype embeddings for prediction
+
+├── .gitignore                         # Properly ignores sensitive files, virtualenv, etc.
+├── README.md                          # Project overview, installation, usage
+├── project_structure.txt              # Text version of this structure
+├── requirements.txt                   # (Optional) dependencies to reproduce environment
+└── venv/                              # Local virtual environment (excluded from git)
